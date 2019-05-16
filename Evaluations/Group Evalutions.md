@@ -7,6 +7,7 @@ Separately upload your prototype in this folder.
 * What can we bring forward to our final one?
 
 ||Pros|Cons|How improve|BringForward|  
+| - | - | - | - | - |
 |Aleisha|Detailed and believable personas. Important use cases of chat moderation and seeing other members available times |Mobile interface|   |Chat moderation, available times, persona details|  
 |Lavanya / Priyal|Detailed set of diverse personas, detailed clear designed pages|Parts of the pages are deep in system requiring user to navigate far in for simple things.|Some sort of quick links in design or parts the user will use often quickly brought to front.|Design of pages to build upon, lecturer personas and international masters student persona.|  
 |Erin|asking questions direct to tutor. Group privacy settings. |No scenario for adding friends/ joining group who you are not already friends with.|   |The tutor messaging and setting the privacy for a group.|  
