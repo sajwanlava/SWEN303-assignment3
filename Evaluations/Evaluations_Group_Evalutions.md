@@ -13,10 +13,12 @@ And can include:
 * How to improve?
 * What can we bring forward to our final one?
 * 
-| header | Pros | Cons | How to improve | Bring forward to final |
+| Members | Pros | Cons | How to improve | Bring forward to final |
 | ------ | ------ | ------ | ------ | ------ |
-| cell | cell |cell |cell |cell |
-| cell | cell | cell |cell |cell |
+| Aleisha | messaging options and file options to upload and download. Mobile interface looks clean | Back button on the mobile interface would be nice|Maybe book room as a more important scenario |File options to download and upload|
+| Callum | cell | cell |cell |cell |
+| Erin | cell | cell |cell |cell |
+| Lavanya/Priyal | cell | cell |cell |cell |
 
 ## Lavanya
 
