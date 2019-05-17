@@ -12,6 +12,11 @@ And can include:
 * Cons
 * How to improve?
 * What can we bring forward to our final one?
+* 
+| header | Pros | Cons | How to improve | Bring forward to final |
+| ------ | ------ | ------ | ------ | ------ |
+| cell | cell |cell |cell |cell |
+| cell | cell | cell |cell |cell |
 
 ## Lavanya
 
