@@ -12,8 +12,7 @@ And can include:
 * Cons
 * How to improve?
 * What can we bring forward to our final one?
- 
-=======
+
 ## Lavanya
 
 | Name    | Pros                                                                   | Cons                                                           | How to improve?                                                                                            | What can we bring forward?                                                                              |
@@ -52,5 +51,3 @@ And can include:
 
 ## Aleisha 
 
-
->>>>>>> Evaluations/Group Evalutions.md
