@@ -7,15 +7,17 @@ Separately upload your prototype in this folder.
 * What can we bring forward to our final one?
 
 ## Lavanya
+| pros | header |
+| ------ | ------ |
+| cell | cell |
+| cell | cell | 
 
 ## Priyal
 
 ## Callum
 
-## Erin
-
 ## Jaimar
 
 ## Aleisha 
 
-
+## Erin
