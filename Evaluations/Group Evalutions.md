@@ -6,14 +6,7 @@ Separately upload your prototype in this folder.
 * How to improve?
 * What can we bring forward to our final one?
 
-
-|        |pros   | cons | How to improve? | What can we bring forward to our final one? |
+| Name | Pros |
 | ------ | ------ |
 | Callum | Finding a study group of the specific course easily   |
-| Jaima  | cell | 
-| Priyal |
-|Aleisha |
- 
-
- 
- 
+| cell | cell | 
