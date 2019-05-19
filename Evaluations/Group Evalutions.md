@@ -9,9 +9,6 @@ Separately upload your prototype in this folder.
 | Name | pros |
 | header | header |
 | ------ | ------ |
-| cell | cell |
-| cell | cell | 
-| ------ | ------ |
 | Callum | Easy to find a study group of the specific course    |
 | Jaimar | There are very specific ways for finding a room | 
 | Lavanya | Good colour Scheme |
