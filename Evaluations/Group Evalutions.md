@@ -6,18 +6,14 @@ Separately upload your prototype in this folder.
 * How to improve?
 * What can we bring forward to our final one?
 
-## Lavanya
-| pros | header |
+
+|        |pros   | cons | How to improve? | What can we bring forward to our final one? |
 | ------ | ------ |
-| cell | cell |
-| cell | cell | 
+| Callum | Finding a study group of the specific course easily   |
+| Jaima  | cell | 
+| Priyal |
+|Aleisha |
+ 
 
-## Priyal
-
-## Callum
-
-## Jaimar
-
-## Aleisha 
-
-## Erin
+ 
+ 
