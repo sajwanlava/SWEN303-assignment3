@@ -6,7 +6,10 @@ Separately upload your prototype in this folder.
 * How to improve?
 * What can we bring forward to our final one?
 
-| Name | Pros | Name | Pros |
+| Name | pros |
 | ------ | ------ |
 | Callum | Easy to find a study group of the specific course    |
+| Jaimar | There are very specific ways for finding a room | 
+| header | header |
+| cell | cell |
 | cell | cell | 
