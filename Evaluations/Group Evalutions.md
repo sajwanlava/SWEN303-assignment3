@@ -6,7 +6,7 @@ Separately upload your prototype in this folder.
 * How to improve?
 * What can we bring forward to our final one?
 
-| Name | Pros |
+| Name | Pros | cons |
 | ------ | ------ |
-| Callum | Finding a study group of the specific course easily   |
+| Callum | Easy to find a study group of the specific course    |
 | cell | cell | 
