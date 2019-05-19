@@ -7,7 +7,6 @@ Separately upload your prototype in this folder.
 * What can we bring forward to our final one?
 
 | Name | pros |
-| header | header |
 | ------ | ------ |
 | Callum | Easy to find a study group of the specific course    |
 | Jaimar | There are very specific ways for finding a room | 
