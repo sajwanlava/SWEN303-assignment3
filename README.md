@@ -20,7 +20,7 @@ Blocking/Reporting users
 | Choose block/report user |  |
 |  | Display info | 
 |Choose/fill in reasons|  |
-|Choose report user to lecture/add user to blocked list| |
+|Choose report user to lecturer(tutor)/add user to blocked list| |
 ||Sends notifications to lecturer/tutor|
 
 Assigning tutors(lecturers)
