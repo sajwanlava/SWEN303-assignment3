@@ -2,17 +2,12 @@
 
 Final group project
 
+Log in
 | User | System |
 | ------ | ------ |
 | Choose Study Organiser |  |
 |  | Display log in info | 
+| Fill in username and password |  |
+|  | Verify and show info | 
 
-
-Log in
-| User   | System |
-| ------ | ------ |
-| Choose Study Organiser | |
-| | Display log in info | 
-|Fill in username and password| |
-| |Verify and show info|
 
