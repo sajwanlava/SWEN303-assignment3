@@ -8,5 +8,8 @@ Log in
 | ------ | ------ |
 | Choose Study Organiser |  |
 |  | Display log in info | 
+| Fill in username and password |  |
+|  | Verify and show info |
+
 
 
