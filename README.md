@@ -2,10 +2,10 @@
 
 Final group project
 
-| header | header |
+| User | System |
 | ------ | ------ |
-| cell | cell |
-| cell | cell | 
+| Choose Study Organiser |  |
+|  | Display log in info | 
 
 
 Log in
