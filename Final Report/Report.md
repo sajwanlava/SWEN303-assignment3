@@ -116,6 +116,30 @@
 #### Block users & report messages - all users (Erin Jin)
 shown to tutors/lecturer, who can escalate to uni staff
 
+| User | System |
+| ------ | ------ |
+| Choose user |  |
+|  | Display options | 
+| Choose block/report user |  |
+|  | Display info | 
+|Choose/fill in reasons|  |
+|Choose report user to lecturer(tutor)/add user to blocked list| |
+||Sends notifications to lecturer/tutor|
+
 #### Set user as tutor - lecturers only (Erin Jin)
 
+| User | System |
+| ------ | ------ |
+| Choose user |  |
+|  | Display info | 
+|Edit contact/Submit||
+||Display info|
+
 #### Log in - all users (Erin Jin)
+
+| User | System |
+| ------ | ------ |
+| Choose Study Organiser |  |
+|  | Display log in info | 
+| Fill in username and password |  |
+|  | Verify and show info |
