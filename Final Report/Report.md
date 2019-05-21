@@ -103,8 +103,6 @@
 | Amend chat name | |
 | | Notify user(s) |
 
-#### View, modify calendar - all users (Priyal Patel)
-
 #### View Calendar - all users (Priyal Patel)
 
 | User | System |
@@ -132,8 +130,6 @@
 | | Allow changes to existing events |
 | | Save and display changes on user's calendar
 
-#### Send, view, accept message requests - all users (Priyal Patel)
-
 #### Send New Message - all users (Priyal Patel)
 
 | User | System |
@@ -145,7 +141,7 @@
 | | Send the message to the respective recipients |
 | | (as a message request to new recipients) |
 
-#### Reply to Messages
+#### Reply to Messages - all users (Priyal Patel)
 
 | User | System |
 | - | - |
