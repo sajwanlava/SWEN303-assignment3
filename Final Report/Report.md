@@ -105,9 +105,87 @@
 
 #### View, modify calendar - all users (Priyal Patel)
 
+#### View Calendar - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Locate calendar | |
+| | Display Calendar |
+
+#### Add Events to Calendar - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Locate calendar | |
+| | Display Calendar |
+| Add event | | 
+| | Allow users to create a new event |
+| | Add new event to user's Calendar |
+
+#### Edit Calendar Event - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Locate calendar | |
+| | Display Calendar |
+| Edit event | | 
+| | Allow changes to existing events |
+| | Save and display changes on user's calendar
+
 #### Send, view, accept message requests - all users (Priyal Patel)
 
+#### Send New Message - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Find recipient(s) | |
+| | Display and allow selection from all users to be message recipients |
+| Send message | |
+| | Allow users to construct a message |
+| | Send the message to the respective recipients |
+| | (as a message request to new recipients) |
+
+#### Reply to Messages
+
+| User | System |
+| - | - |
+| Select message | |
+| | Display messaging history |
+| | (exisiting messages) |
+| Write a reply | | 
+| | Allow users to construct a reply message |
+| send message | | 
+| | Send message reply to recipient(s) |
+
+#### Recieve Messages - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| View message requests | |
+| | Display notifications for pending message |
+| | requests, if any |
+| Respond to message requests | |
+| | Expand message requests (to get info) |
+| | Provide options to decline or accept |
+
 #### Download, upload files - all users (Priyal Patel)
+
+#### Upload Files (in chat) - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Select File | | 
+| | Open file browser | 
+| | Upload to the system within the chat |
+
+#### Download Files - all users (Priyal Patel)
+
+| User | System |
+| - | - |
+| Download file | | 
+| | Allow option to download shared files |
+| | Scan for malware |
+| | Download file onto the user's system |
 
 #### View links to project management tools - all users (Lavanya Sajwan)
 
