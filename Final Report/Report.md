@@ -253,7 +253,7 @@ INFORMATION PROCESSING: Yu Hong likes to absorb information that is relevant to 
 
 TINKERING: Yu Hong does not like tinkering on programs. She would rather use something that is easy and functional as that does not require much learning.  
 
-#### Lecturer
+#### Tutor
 
 AUSTIN LOWE (BY PRIYAL PATEL) 
 Austin is a student in his third and last year studying towards a Bachelor of Design Innovation majoring in Interaction Design. Austin is looking for additional skills and experience which he can also add to his cv and remembers enjoying creating digital artwork and receiving excellent grades in that course. He will be tutoring first year students enrolled in the creative coding course DSDN142.
