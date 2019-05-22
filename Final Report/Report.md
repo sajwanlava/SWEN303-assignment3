@@ -164,8 +164,6 @@
 | | Expand message requests (to get info) |
 | | Provide options to decline or accept |
 
-#### Download, upload files - all users (Priyal Patel)
-
 #### Upload Files (in chat) - all users (Priyal Patel)
 
 | User | System |
