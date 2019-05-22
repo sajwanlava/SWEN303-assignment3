@@ -185,7 +185,28 @@
 
 #### View links to project management tools - all users (Lavanya Sajwan)
 
+| User | System |
+| - | - |
+| Click study group | | 
+| | Displays study group |
+| Click project management links on study group page | |
+| | Directs students to a seperate page on another tab to the selected project management tool  |
+
 #### Moderate chat - tutors and lecturers only (Lavanya Sajwan)
+
+| User | System |
+| - | - |
+| Select course to observe | | 
+| | Display all
+affiliated and accessible
+courses to tutors and academic staff
+only|
+| Choose specific course | |
+| | Display all communication groups associated with chosen course |
+| Choose a specific group | |
+| | Diplays the chat |
+| Monitor behaviour | |
+
 
 #### Block users & report messages - all users (Erin Jin)
 shown to tutors/lecturer, who can escalate to uni staff
