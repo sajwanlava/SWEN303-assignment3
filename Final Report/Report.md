@@ -32,25 +32,6 @@
 | | Show RSVPs |
 | | Show confirmed booking in calendar |
 
-#### Create room bookings from calendar  - all users (Aleisha Amohia)
-
-| User | System |
-| - | - |
-| Choose calendar | |
-| | Display calendar |
-| Choose 'book a room' option | |
-| | Redirect to room bookings system |
-| | Ask for description, date, time, length, and invited attendees of booking |
-| Provide required information | |
-| | Display rooms that fit criteria |
-| Choose room | |
-| | Display all booking information |
-| Confirm details | |
-| | Display booking confirmation |
-| | Notify invited attendees |
-| | Show RSVPs |
-| | Show confirmed booking in calendar |
-
 #### Find room bookings - all users (Aleisha Amohia)
 
 | User | System |
