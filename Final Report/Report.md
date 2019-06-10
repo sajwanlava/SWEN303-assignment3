@@ -142,7 +142,7 @@ She likes that she has access to her peers and academic support without them see
 
 **INFORMATION PROCESSING:** Beyoncé likes to absorb as much information as possible so that she is fully prepared and so that no problem is unexpected. She doesn't like to wait too long for information or answers.
 
-**TINKERING: **Beyoncé doesn't generally have time to experiment with programs but will learn the parts that she needs.
+**TINKERING:** Beyoncé doesn't generally have time to experiment with programs but will learn the parts that she needs.
 
 
 ## USE CASES
