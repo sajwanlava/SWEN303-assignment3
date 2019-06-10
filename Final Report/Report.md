@@ -15,7 +15,7 @@
 
 #### Lecturer 
 
-***PROFESSOR FAN YU HONG (BY LAVANYA SAJWAN) ***
+*PROFESSOR FAN YU HONG (BY LAVANYA SAJWAN)*
 Fan Yu Hong is a 57-year-old Financial Econometrics lecturer at the VUW Pipitea campus. Outside of her time teaching students, she is a divorced mother of two and likes to spend much time with her children. While she does teach a technical course, she would prefer to use a simple system. As a career and family orientated woman, she would rather her spare time is spent enjoying hobbies. Yu Hong is a person who looks at models and graphs often, so she values an interface that is simple and aesthetic. 
 
 **ACTIVITIES:** Yu Hong spends a lot of time with her kids. In her weeks without them, she enjoys going on long walks and meeting friends for brunch. 
@@ -46,7 +46,7 @@ Fan Yu Hong is a 57-year-old Financial Econometrics lecturer at the VUW Pipitea 
 
 #### Tutor
 
-**AUSTIN LOWE (BY PRIYAL PATEL) ****
+*AUSTIN LOWE (BY PRIYAL PATEL) *
 Austin is a student in his third and last year studying towards a Bachelor of Design Innovation majoring in Interaction Design. Austin is looking for additional skills and experience which he can also add to his cv and remembers enjoying creating digital artwork and receiving excellent grades in that course. He will be tutoring first year students enrolled in the creative coding course DSDN142.
 
 Austin will primarily use the system to help him with tutoring. He plans to use it to coordinate with students that want to discuss the course content with him in person and also make himself accessible to anyone that needs his help or wants to ask him questions. 
@@ -79,7 +79,7 @@ Austin has other commitments, among them his own study so he likes being able to
 
 #### International Student 
 
-**RAHUL MEHTA (BY LAVANYA SAJWAN) ****
+*RAHUL MEHTA (BY LAVANYA SAJWAN) *
 Rahul is a 34-year-old International Master of Engineering by Thesis student. He has recently moved from India and has not studied in a few years, so it is a bit strange for him to be back at a university. He has been working as a developer in private companies since graduating. Rahul is talkative and is often wanting to immerse himself in new experiences, especially in a new country. He has come here on a scholarship and has moved his wife and child overseas with him. 
 
 Rahul uses the system to become better acquainted with other students and in doing so help familiarise himself with the local terminology and accents.
@@ -113,7 +113,7 @@ Rahul uses the system to become better acquainted with other students and in doi
 
 #### Domestic Student
 
-**Beyoncé (Aleisha)****
+*Beyoncé (Aleisha)*
 Beyoncé is a 21 year old student at Victoria University of Wellington, living in the CBD. She is in a Computer Science Major in her third year. Most of her engineering and computer science courses include group assignments so she uses the Study Organiser app talk to her classmates and find rooms and times to meet with group members.
 Her goal is to obtain a B+ average grade across all of her courses. She wants to do well, but she has many other responsibilities and activities to juggle and finds that she struggles to learn the content as quickly as some of her peers. She often uses the app to ask questions about assignments, which usually get answered by a fellow student or tutor.
 She likes that she has access to her peers and academic support without them seeing unrelated person content such as her Facebook or Instagram posts. Being a woman in a male-dominated area, she appreciates having a platform away from social media with a university-only context because it sets a standard and expectation of how to interact with each other.
