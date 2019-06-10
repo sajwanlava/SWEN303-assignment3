@@ -2,11 +2,11 @@
 ## Team 8 : Final Report
 
 **Aleisha Amohia -
-Callum Bridgen -
-Erin Jin - 
-Jaimar Ong - 
-Lavanya Sajwan - 300381661
-Priyal Patel -**
+<br>Callum Bridgen -
+<br>Erin Jin - 
+<br>Jaimar Ong - 
+<br>Lavanya Sajwan - 300381661
+<br>Priyal Patel -**
 
 ## BACKGROUND
 
