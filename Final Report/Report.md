@@ -8,7 +8,7 @@
 #### Lavanya Sajwan - 300381661
 #### Priyal Patel -
 
-## Background
+## BACKGROUND
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
