@@ -16,6 +16,7 @@
 #### Lecturer 
 
 *PROFESSOR FAN YU HONG (BY LAVANYA SAJWAN)*
+
 Fan Yu Hong is a 57-year-old Financial Econometrics lecturer at the VUW Pipitea campus. Outside of her time teaching students, she is a divorced mother of two and likes to spend much time with her children. While she does teach a technical course, she would prefer to use a simple system. As a career and family orientated woman, she would rather her spare time is spent enjoying hobbies. Yu Hong is a person who looks at models and graphs often, so she values an interface that is simple and aesthetic. 
 
 **ACTIVITIES:** Yu Hong spends a lot of time with her kids. In her weeks without them, she enjoys going on long walks and meeting friends for brunch. 
