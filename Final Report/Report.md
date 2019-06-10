@@ -113,7 +113,7 @@ Rahul uses the system to become better acquainted with other students and in doi
 
 #### Domestic Student
 
-*Beyoncé (Aleisha)*
+*BEYONCE (BY ALEISHA AMOHIA)*
 <br>Beyoncé is a 21 year old student at Victoria University of Wellington, living in the CBD. She is in a Computer Science Major in her third year. Most of her engineering and computer science courses include group assignments so she uses the Study Organiser app talk to her classmates and find rooms and times to meet with group members.
 Her goal is to obtain a B+ average grade across all of her courses. She wants to do well, but she has many other responsibilities and activities to juggle and finds that she struggles to learn the content as quickly as some of her peers. She often uses the app to ask questions about assignments, which usually get answered by a fellow student or tutor.
 She likes that she has access to her peers and academic support without them seeing unrelated person content such as her Facebook or Instagram posts. Being a woman in a male-dominated area, she appreciates having a platform away from social media with a university-only context because it sets a standard and expectation of how to interact with each other.
