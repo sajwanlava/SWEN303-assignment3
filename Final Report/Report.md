@@ -1,12 +1,12 @@
 # SWEN303 Assignment 3: Student Study and Collaboration
 ## Team 8 : Final Report
 
-#### Aleisha Amohia -
-#### Callum Bridgen -
-#### Erin Jin - 
-#### Jaimar Ong - 
-#### Lavanya Sajwan - 300381661
-#### Priyal Patel -
+**Aleisha Amohia -
+Callum Bridgen -
+Erin Jin - 
+Jaimar Ong - 
+Lavanya Sajwan - 300381661
+Priyal Patel -**
 
 ## BACKGROUND
 
