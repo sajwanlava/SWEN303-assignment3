@@ -10,7 +10,7 @@
 
 ## Background
 
-## Personas
+## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
 
 #### Lecturer 
@@ -145,7 +145,7 @@ INFORMATION PROCESSING: Beyoncé likes to absorb as much information as possible
 TINKERING: Beyoncé doesn't generally have time to experiment with programs but will learn the parts that she needs.
 
 
-## Use cases
+## USE CASES
 
 #### Send & receive messages - all users (Aleisha Amohia)
 
