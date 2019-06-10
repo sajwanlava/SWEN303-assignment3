@@ -15,6 +15,17 @@ interface for students who already know each other, as well as an opportunity to
 as opposed to a mobile application as operating it will be more efficient and clearer on a larger screen. If the application becomes popular and is successful there is always potential for an upgrade of the system which can
 include a mobile version for added user convenience.
 
+#### Existing Software
+Existing software which incorporates the desired elements of the study application are Discord, the ECS forum and the Victoria University of Wellington (VUW) Library study room booking system. Discord is primarily a tool for chatting between users on a specified channel. Many students use
+Discord as a way to discuss, understand and reinforce class content. Ultimately, it is an anonymous means of chatting, but students can choose to organise study meetings during those discussions or via private message on the
+platform. The ECS forum is used by engineering, computer science, and science students of Victoria University of Wellington to present questions to their tutors and lecturers. However, it has also been used to find partners for groups
+projects and this process is overseen by staff. The VUW Library study room booking system is used by students looking to book spaces for collaborative group study. Typically, students use these room with their friends and peers they
+already know.
+
+While discord is a widely-used communication tool for students, it is not the most inclusive as servers are private channels and members can only be
+added by invite. Accounts are often anonymous, and these are the reasons why there is a disconnect between students and finding study partners is
+difficult.
+
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
 
