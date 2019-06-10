@@ -9,6 +9,11 @@
 #### Priyal Patel -
 
 ## BACKGROUND
+#### Introduction
+The Student Study and Collaboration tool is a critical system which enables students to find an available time and place to problem solve together and connects individuals wanting to study for mutual courses. The application will provide an
+interface for students who already know each other, as well as an opportunity to meet other students interested in working on the same topics. There will be tools allowing students to communicate with one another and links to project management tools to ensure effective running of projects. The system will be a computer web application
+as opposed to a mobile application as operating it will be more efficient and clearer on a larger screen. If the application becomes popular and is successful there is always potential for an upgrade of the system which can
+include a mobile version for added user convenience.
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
