@@ -525,6 +525,4 @@ Updated Design and Prototype
 
 **Priyal Patel**
 
-## DESIGN IDEATION
-Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
 
