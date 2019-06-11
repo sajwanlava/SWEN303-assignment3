@@ -1,12 +1,12 @@
 # SWEN303 Assignment 3: Student Study and Collaboration
 ## Team 8 : Final Report
 
-#### Aleisha Amohia -
-#### Callum Bridgen -
-#### Erin Jin - 
-#### Jaimar Ong - 
-#### Lavanya Sajwan - 300381661
-#### Priyal Patel -
+**Aleisha Amohia -
+<br>Callum Bridgen -
+<br>Erin Jin - 
+<br>Jaimar Ong - 
+<br>Lavanya Sajwan - 300381661
+<br>Priyal Patel -**
 
 ## BACKGROUND
 #### Introduction
@@ -25,6 +25,26 @@ already know.
 While discord is a widely-used communication tool for students, it is not the most inclusive as servers are private channels and members can only be
 added by invite. Accounts are often anonymous, and these are the reasons why there is a disconnect between students and finding study partners is
 difficult.
+
+**TO ADD DISCORD PIC**
+
+The following is the new library booking system. While this is easy to follow and aesthetically pleasing, there is a lack of a collaborative aspect to this tool with
+no option of adding members to bookings. Subsequently, users may forget to inform study partners about a booking or study partners themselves could
+forget as they are not directly associated with the booking.
+
+*TO ADD LIBRARY BOOKING PIC*
+
+The ECS forum has an overall outdated and dull design making it unappealing
+to users which is most likely why not many students continue to use it. When a forum page gets filled it becomes inconvenient to click ‘next page’. It would be ideal to have an infinite scroll instead as some users may want to look at
+forums from previous pages, and therefore there is no need to navigate
+backwards.
+
+*TO ADD ECS FORUM PIC*
+
+From the analysis of these existing systems, it is seen that there is a need for a new study organiser tool which will be user-friendly and have effortless
+functionality. The Good to Go system will aim to address the fact that there is no pre-existing software which combines the constructive elements and minimises the drawbacks of all the existing tools. Currently, users are having to
+go to different areas in order to achieve tasks such as communicating with people and booking rooms for collaborative study. It makes sense to combine these functionalities into one tool which our study organiser will aim to
+accomplish.
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
