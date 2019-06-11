@@ -7,7 +7,7 @@
 <br>Jaimar Ong - 
 <br>Lavanya Sajwan - 300381661
 <br>Priyal Patel -**
-
+<br>
 ## BACKGROUND
 #### Introduction
 The Student Study and Collaboration tool is a critical system which enables students to find an available time and place to problem solve together and connects individuals wanting to study for mutual courses. Peer learning is about people from similar social groupings learning together and from each other. The benefits from peer learning are clear and well-researched, and it is leading to more educational institutions including peer learning in their curriculums.
@@ -66,7 +66,7 @@ students’ interest in learning and exploring knowledges and improving students
 For tutors and academic staff, this application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism, student questions, attend or facilitate study groups, and provide helpful resources such as links to project management tools. 
 
 As this program will be used as a Victoria University of Wellington (VUW) application, the university are key stakeholders of it. The univerisity would need this to run well as it is a tool to support students and academic staff succeed in their work-life. 
- 
+ <br>
 ## EVALUATIONS
 
 **Lavanya**
@@ -129,6 +129,7 @@ As this program will be used as a Victoria University of Wellington (VUW) applic
 * Almost all have seemed to use blue in our prototypes, with lots of white space
 * Personas used: students, tutors, lecturers, international students
 
+<br>
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
 *With a description of how the multiple personas coming into the group were merged to form between 4 and 6 Personas.*
