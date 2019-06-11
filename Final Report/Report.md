@@ -127,9 +127,9 @@ As this program will be used as a Victoria University of Wellington (VUW) applic
 
 **Other notes**
 * Almost all have seemed to use blue in our prototypes, with lots of white space
-* Personas used: students, tutors, lecturers, international students
+* Personas used: students, tutors, lecturers, international students 
 
-<br>
+
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
 *With a description of how the multiple personas coming into the group were merged to form between 4 and 6 Personas.*
