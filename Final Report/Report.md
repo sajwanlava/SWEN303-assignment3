@@ -511,4 +511,18 @@ Updated Design and Prototype
 
 ## GROUP REFLECTIONS
 
+## INDIVIDUAL REFLECTIONS
+
+**Aleisha Amohia**
+
+**Callum Bridgen**
+
+**Erin Jin**
+
+**Jaimar Ong**
+
+**Lavanya Sajwan**
+
+**Priyal Patel**
+
 
