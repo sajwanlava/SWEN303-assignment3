@@ -58,9 +58,8 @@ as lecturers as employees will not often have to use it.
 #### Importance
 A study organiser will be beneficial to many types of people at the university including; undergraduate, post-graduate, PhD students, tutors and academic staff. Coming from a multicultural city, there is expected to be a range of backgrounds our users have come from. Therefore, our personas
 were chosen to emulate the diversity of possible users and were based around aspects of individuals we had come into contact with during our personal university experiences. The system will be providing the opportunity to bring together those wishing to actively improve their learning by seeking help with
-others also wanting to learn and share their knowledge collaboratively. Users will get the chance to meet new people as well as improve their time management and study organisation. For tutors and academic staff, this
-application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism and to book
-rooms themselves.
+others also wanting to learn and share their knowledge collaboratively. Users will get the chance to meet new people as well as improve their time management and study organisation. For tutors and academic staff, this application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism, student questions, attend or facilitate study groups, and provide helpful resources such as links to project management tools.
+ 
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
