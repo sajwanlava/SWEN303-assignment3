@@ -423,7 +423,11 @@ shown to tutors/lecturer, who can escalate to uni staff
 |  | Verify and show info |
 <br>
 
-## EVALUATION OF PROTOTYPES
+## DESIGN IDEATION
+Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
+<br>
+
+## DESIGN REVIEW
 
 **Lavanya**
 
@@ -485,6 +489,41 @@ shown to tutors/lecturer, who can escalate to uni staff
 * Almost all have seemed to use blue in our prototypes, with lots of white space
 * Personas used: students, tutors, lecturers, international students 
 
+<br>
+
+## DESIGN PRIOR TO USER TESTING
+
+<br>
+
+## USABILITY TEST PLAN AND RESULTS
+
+Testing documents and results can be found under the "Testing" header in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
+
+Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) <br>
+
+## UPDATED DESIGN AND PROTOTYPE
+Updated Design and Prototype
+
+- The update to the design
+- Description and a clear indication of what has changed and why, including links to issues in gitlab raised as part of testing
+
+## VIDEO
+
+## GROUP REFLECTIONS
+
+## INDIVIDUAL REFLECTIONS
+
+**Aleisha Amohia**
+
+**Callum Bridgen**
+
+**Erin Jin**
+
+**Jaimar Ong**
+
+**Lavanya Sajwan**
+
+**Priyal Patel**
 
 ## DESIGN IDEATION
 Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
