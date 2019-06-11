@@ -9,6 +9,64 @@
 <br>Priyal Patel -**
 
 ## BACKGROUND
+#### Introduction
+The Student Study and Collaboration tool is a critical system which enables students to find an available time and place to problem solve together and connects individuals wanting to study for mutual courses. Peer learning is about people from similar social groupings learning together and from each other. The benefits from peer learning are clear and well-researched, and it is leading to more educational institutions including peer learning in their curriculums.
+The application will provide an interface for students who already know each other, as well as an opportunity to meet other students interested in working on the same topics. There will be tools allowing students to communicate with one another and links to project management tools to ensure effective running of projects. Study groups are a good way to enact peer learning. At the moment, study groups and group project collaboration is organised using (primarily) social media. There is no one platform that allows communication between students working on the same course/topic, and finding a room and time to work together. The Study Organiser app would encourage peer learning in a centralised, easy-to-use platform by providing functionality to do all of these things and more.
+
+The system will be a computer web application as opposed to a mobile application as operating it will be more efficient and clearer on a larger screen. If the application becomes popular and is successful there is always potential for an upgrade of the system which can
+include a mobile version for added user convenience.
+
+#### Existing Software
+Existing software which incorporates the desired elements of the study application are Discord, the ECS forum and the Victoria University of Wellington (VUW) Library study room booking system. Discord is primarily a tool for chatting between users on a specified channel. Many students use
+Discord as a way to discuss, understand and reinforce class content. Ultimately, it is an anonymous means of chatting, but students can choose to organise study meetings during those discussions or via private message on the
+platform. The ECS forum is used by engineering, computer science, and science students of Victoria University of Wellington to present questions to their tutors and lecturers. However, it has also been used to find partners for groups
+projects and this process is overseen by staff. The VUW Library study room booking system is used by students looking to book spaces for collaborative group study. Typically, students use these room with their friends and peers they
+already know.
+
+While discord is a widely-used communication tool for students, it is not the most inclusive as servers are private channels and members can only be
+added by invite. Accounts are often anonymous, and these are the reasons why there is a disconnect between students and finding study partners is
+difficult.
+
+**TO ADD DISCORD PIC**
+
+The following is the new library booking system. While this is easy to follow and aesthetically pleasing, there is a lack of a collaborative aspect to this tool with
+no option of adding members to bookings. Subsequently, users may forget to inform study partners about a booking or study partners themselves could
+forget as they are not directly associated with the booking.
+
+**TO ADD LIBRARY BOOKING PIC**
+
+The ECS forum has an overall outdated and dull design making it unappealing
+to users which is most likely why not many students continue to use it. When a forum page gets filled it becomes inconvenient to click ‘next page’. It would be ideal to have an infinite scroll instead as some users may want to look at
+forums from previous pages, and therefore there is no need to navigate
+backwards.
+
+**TO ADD ECS FORUM PIC**
+
+From the analysis of these existing systems, it is seen that there is a need for a new study organiser tool which will be user-friendly and have effortless
+functionality. The Good to Go system will aim to address the fact that there is no pre-existing software which combines the constructive elements and minimises the drawbacks of all the existing tools. Currently, users are having to
+go to different areas in order to achieve tasks such as communicating with people and booking rooms for collaborative study. It makes sense to combine these functionalities into one tool which our study organiser will aim to
+accomplish.
+
+#### Business Objective
+Each trimester is only 4 months long, but there is plenty of content to learn, and students need a way of asking questions and studying
+effectively. The study organiser aims to increase efficiency in student learning and workflow as well as creating the opportunities for partnership in
+study sessions in an appropriate and approved environment. Many courses have group projects and require collaboration, and all courses encourage use of a discussion forum of sorts to share ideas and answer each other's questions. should assist the students
+and tutors on finding a room to study or work with projects and manage it.
+
+The system should also be an easy, non-controversial way to reach tutors and academic staff. Facebook usually isn't appropriate for this, and email isn't as reliable. It should also be a way for tutors and academic staff to mitigate student interaction. The study organiser should support each user to see what available rooms there are to
+book, cancel bookings, show a map, communicate with other users and let them meet new people. As this is mainly for the use of students, this application should not take up anything significant in terms of the cost of running a course
+as lecturers, as employees, will not often have to use it.
+
+#### Importance
+A study organiser will be beneficial to many types of people at the university including; undergraduate, post-graduate, PhD students, tutors and academic staff. Coming from a multicultural city, there is expected to be a range of backgrounds our users have come from. Therefore, our personas
+were chosen to emulate the diversity of possible users and were based around aspects of individuals we had come into contact with during our personal university experiences. The system will be providing the opportunity to bring together those wishing to actively improve their learning by seeking help with
+others also wanting to learn and share their knowledge collaboratively. Furthermore, there are many merits about group study, such as enhancing
+students’ interest in learning and exploring knowledges and improving students’ ability of teamwork and social skills. Also students can develop friendships in university as its key to maintain a social life to continue to be mentally healthy. Users will get the chance to meet new people as well as improve their time management and study organisation. 
+
+For tutors and academic staff, this application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism, student questions, attend or facilitate study groups, and provide helpful resources such as links to project management tools. 
+
+As this program will be used as a Victoria University of Wellington (VUW) application, the university are key stakeholders of it. The univerisity would need this to run well as it is a tool to support students and academic staff succeed in their work-life. 
+ 
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
