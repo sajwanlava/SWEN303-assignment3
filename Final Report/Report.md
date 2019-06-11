@@ -32,19 +32,32 @@ The following is the new library booking system. While this is easy to follow an
 no option of adding members to bookings. Subsequently, users may forget to inform study partners about a booking or study partners themselves could
 forget as they are not directly associated with the booking.
 
-*TO ADD LIBRARY BOOKING PIC*
+**TO ADD LIBRARY BOOKING PIC**
 
 The ECS forum has an overall outdated and dull design making it unappealing
 to users which is most likely why not many students continue to use it. When a forum page gets filled it becomes inconvenient to click ‘next page’. It would be ideal to have an infinite scroll instead as some users may want to look at
 forums from previous pages, and therefore there is no need to navigate
 backwards.
 
-*TO ADD ECS FORUM PIC*
+**TO ADD ECS FORUM PIC**
 
 From the analysis of these existing systems, it is seen that there is a need for a new study organiser tool which will be user-friendly and have effortless
 functionality. The Good to Go system will aim to address the fact that there is no pre-existing software which combines the constructive elements and minimises the drawbacks of all the existing tools. Currently, users are having to
 go to different areas in order to achieve tasks such as communicating with people and booking rooms for collaborative study. It makes sense to combine these functionalities into one tool which our study organiser will aim to
 accomplish.
+
+#### Business Objective
+The study organiser aims to increase efficiency in student learning and workflow as well as creating the opportunities for partnership in
+study sessions in an appropriate and approved environment. It should also be a way for tutors and academic staff to mitigate student interaction. The study organiser should support each user to see what available rooms there are to
+book, cancel bookings, show a map, communicate with other users and let them meet new people. As this is mainly for the use of students, this application should not take up anything significant in terms of the cost of running a course
+as lecturers as employees will not often have to use it.
+
+#### Importance
+A study organiser will be beneficial to many types of people at the university including; undergraduate, post-graduate, PhD students, tutors and academic staff. Coming from a multicultural city, there is expected to be a range of backgrounds our users have come from. Therefore, our personas
+were chosen to emulate the diversity of possible users and were based around aspects of individuals we had come into contact with during our personal university experiences. The system will be providing the opportunity to bring together those wishing to actively improve their learning by seeking help with
+others also wanting to learn and share their knowledge collaboratively. Users will get the chance to meet new people as well as improve their time management and study organisation. For tutors and academic staff, this
+application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism and to book
+rooms themselves.
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
