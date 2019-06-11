@@ -67,68 +67,6 @@ For tutors and academic staff, this application will be used to oversee the acti
 
 As this program will be used as a Victoria University of Wellington (VUW) application, the university are key stakeholders of it. The univerisity would need this to run well as it is a tool to support students and academic staff succeed in their work-life. 
  <br>
-## EVALUATION OF PROTOTYPES
-
-**Lavanya**
-
-| Name    | Pros                                                                   | Cons                                                           | How to improve?                                                                                            | What can we bring forward?                                                                              |
-|---------|------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Callum  | Scenarios looked well thought out.                                     | Personas were both male and in similar age group.              | More colour.                                                                                               | A page to find existing study groups.                                                                   |
-| Erin    | Discussion of how the specific personas interacted with the webpages.  | Personas came from the same age group and similar background.  | Better layout of webpages.                                                                                 | As questions, and book room were on one webpage area and the buttons were easy to navigate to and see.  |
-| Jaimar  | Good range of personas.                                                | Lack of colour on templates of the webpages.                   | Find room by group project was a bit confusing to understand and wasn't really applicable to university.   | Lots of easy to find buttons on the webpages.                                                           |
-| Aleisha | Platform webpages were well described.                                 | Personas were both female and in a similar age group.          | Web interface may be better for this software, but I understand the benefits of a mobile app as well.      | Uploading and downloading was an interesting feature.                                                   |
-
-**Priyal**
-
-| Name    | Pros                                                                                      | Cons                                                                                                                               | How to improve?                                                                                                                                  | What can we bring forward?                             |
-|---------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Callum  | Clear navigation within the application                                                   | Too much information on the first page - a bit overwhelming                                                                        | Introduce a colour scheme                                                                                                                        | Notifications on next study booking and study requests |
-| Erin    | Colour scheme is simple and calming, prototype design is clean and efficient (looks good) | Limited tutor functionality - they should have access to all other functionality as well as login and answer questions             | Homepage to do list/diary not necessary - it's an added bonus                                                                                    | Messaging interface (prototype)                        |
-| Jaimar  | Straight forward prototypes                                                               | Available room depend on courses and/or group projects                                                                             | Consideration of a colour scheme, add login as it's own use case and remove 'enter login' from all other cases (just assume users are logged in) | Incorporating project management tools (as links?)     |
-| Aleisha | Thorough personas, nice overall outlook of prototypes                                     | Can only book a room through a specific course - what about wanting to create a study group with friends who are in another course | more variation in personas                                                                                                                       | File Sharing                                           |
-
-**Callum**
-
-||Pros|Cons|How improve|BringForward|  
-| - | - | - | - | - |
-|Aleisha|Detailed and believable personas. Important use cases of chat moderation and seeing other members available times |Mobile interface|   |Chat moderation, available times, persona details|  
-|Lavanya / Priyal|Detailed set of diverse personas, detailed clear designed pages|Parts of the pages are deep in system requiring user to navigate far in for simple things.|Some sort of quick links in design or parts the user will use often quickly brought to front.|Design of pages to build upon, lecturer personas and international masters student persona.|  
-|Erin|asking questions direct to tutor. Group privacy settings. |No scenario for adding friends/ joining group who you are not already friends with.|   |The tutor messaging and setting the privacy for a group.|  
-|Jaimar|Group tasks, able to set and check off tasks for group.|Overload of options to find room, group task scenarios missing.|Remove redundancies of scenarios, don’t need to login each scenario.|Setting tasks for group|  
-|Cal|Way to find groups for each course. Chat available on each page, no matter what student is doing on site they can keep communicating with others.|Inconsistent page design, one page full of stuff, other page nearly empty.||Group finding|  
-
-**Erin**
-
-| Name | pros | cons | How to improve? | What can we bring forward to our final one?|
-| ------ | ------ | ------ | ------ | ------ |
-| Callum | Easy to find a new group and check a group already have about the specific course. And get the booked events reminder | | | Remove booking, Group Finder page, Change timeslot of booking,booked events reminder |
-| Jaimar | There are very specific ways for finding a room | | | Group project management |
-| Lavanya | Good colour Scheme. So Easy to check how many bookings got and can easily cancle or change booking time | | | Study partner, Monitor communication, Lecturer persona, Room booking page |
-| Alesha | Room booking button just under each course page, not need to go to seperate page to book rooms.| | | Upload file, Download file |
- 
-**Jaimar**
-
-| Members | Pros | Cons | How to improve | Bring forward to final |
-| ------ | ------ | ------ | ------ | ------ |
-| Aleisha | messaging options and file options to upload and download. Mobile interface looks clean. detailed personas | Back button on the mobile interface would be nice|Maybe book room as a more important scenario |File options to download and upload|
-| Callum | Able to check study plan and cancel and change the timeslot of the booking. | |Its pretty crowded|cancel and change timeslot of booking |
-| Erin | Add friend. Tutors able to answer student questions. Website interface looks good. Notification bell. Group discussions chat| | |Group chat, tutors answer student questions page, add friend|
-| Lavanya/Priyal | Lecturer persona, Dc with study partner, adding tutor in course, Very colourful| |can reduce the steps to get to the chat display|lecturer persona and adding tutors to courses. |
-
-**Aleisha**
-
-| | Pros | Cons | How to improve? | What can we bring forward to our final one? |
-| - | - | - | - | - |
-| Lavanya & Priyal | Lots of graphics, detailed personas | | No way of moderating chat | Lecturer persona, room booking and study partner scenarios, pastel colour scheme |
-| Callum | Confirm group requests scenario, calendar main feature, group finder interface | | should calendar be so big? | group finder |
-| Erin | Separated way of communicating with tutors so no need for them to be in group chat | No scenario on how to use calendar | Write calendar tasks | Calendar, friend requests |
-| Jaimar | Flexibility with order of booking room or creating group | lack of colour | Clarity around processes | Project management tools |
-| Aleisha | Available times scenario, moderate chat | Login scenario is too 'important', uses mobile interface | Clarity around available times | Download and upload files, moderate chat |
-
-**Other notes**
-* Almost all have seemed to use blue in our prototypes, with lots of white space
-* Personas used: students, tutors, lecturers, international students 
-
 
 ## PERSONAS
 (Very minor changes throughout by Jaimar and Callum.)
@@ -483,6 +421,70 @@ shown to tutors/lecturer, who can escalate to uni staff
 |  | Display log in info | 
 | Fill in username and password |  |
 |  | Verify and show info |
+<br>
+
+## EVALUATION OF PROTOTYPES
+
+**Lavanya**
+
+| Name    | Pros                                                                   | Cons                                                           | How to improve?                                                                                            | What can we bring forward?                                                                              |
+|---------|------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Callum  | Scenarios looked well thought out.                                     | Personas were both male and in similar age group.              | More colour.                                                                                               | A page to find existing study groups.                                                                   |
+| Erin    | Discussion of how the specific personas interacted with the webpages.  | Personas came from the same age group and similar background.  | Better layout of webpages.                                                                                 | As questions, and book room were on one webpage area and the buttons were easy to navigate to and see.  |
+| Jaimar  | Good range of personas.                                                | Lack of colour on templates of the webpages.                   | Find room by group project was a bit confusing to understand and wasn't really applicable to university.   | Lots of easy to find buttons on the webpages.                                                           |
+| Aleisha | Platform webpages were well described.                                 | Personas were both female and in a similar age group.          | Web interface may be better for this software, but I understand the benefits of a mobile app as well.      | Uploading and downloading was an interesting feature.                                                   |
+
+**Priyal**
+
+| Name    | Pros                                                                                      | Cons                                                                                                                               | How to improve?                                                                                                                                  | What can we bring forward?                             |
+|---------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Callum  | Clear navigation within the application                                                   | Too much information on the first page - a bit overwhelming                                                                        | Introduce a colour scheme                                                                                                                        | Notifications on next study booking and study requests |
+| Erin    | Colour scheme is simple and calming, prototype design is clean and efficient (looks good) | Limited tutor functionality - they should have access to all other functionality as well as login and answer questions             | Homepage to do list/diary not necessary - it's an added bonus                                                                                    | Messaging interface (prototype)                        |
+| Jaimar  | Straight forward prototypes                                                               | Available room depend on courses and/or group projects                                                                             | Consideration of a colour scheme, add login as it's own use case and remove 'enter login' from all other cases (just assume users are logged in) | Incorporating project management tools (as links?)     |
+| Aleisha | Thorough personas, nice overall outlook of prototypes                                     | Can only book a room through a specific course - what about wanting to create a study group with friends who are in another course | more variation in personas                                                                                                                       | File Sharing                                           |
+
+**Callum**
+
+||Pros|Cons|How improve|BringForward|  
+| - | - | - | - | - |
+|Aleisha|Detailed and believable personas. Important use cases of chat moderation and seeing other members available times |Mobile interface|   |Chat moderation, available times, persona details|  
+|Lavanya / Priyal|Detailed set of diverse personas, detailed clear designed pages|Parts of the pages are deep in system requiring user to navigate far in for simple things.|Some sort of quick links in design or parts the user will use often quickly brought to front.|Design of pages to build upon, lecturer personas and international masters student persona.|  
+|Erin|asking questions direct to tutor. Group privacy settings. |No scenario for adding friends/ joining group who you are not already friends with.|   |The tutor messaging and setting the privacy for a group.|  
+|Jaimar|Group tasks, able to set and check off tasks for group.|Overload of options to find room, group task scenarios missing.|Remove redundancies of scenarios, don’t need to login each scenario.|Setting tasks for group|  
+|Cal|Way to find groups for each course. Chat available on each page, no matter what student is doing on site they can keep communicating with others.|Inconsistent page design, one page full of stuff, other page nearly empty.||Group finding|  
+
+**Erin**
+
+| Name | pros | cons | How to improve? | What can we bring forward to our final one?|
+| ------ | ------ | ------ | ------ | ------ |
+| Callum | Easy to find a new group and check a group already have about the specific course. And get the booked events reminder | | | Remove booking, Group Finder page, Change timeslot of booking,booked events reminder |
+| Jaimar | There are very specific ways for finding a room | | | Group project management |
+| Lavanya | Good colour Scheme. So Easy to check how many bookings got and can easily cancle or change booking time | | | Study partner, Monitor communication, Lecturer persona, Room booking page |
+| Alesha | Room booking button just under each course page, not need to go to seperate page to book rooms.| | | Upload file, Download file |
+ 
+**Jaimar**
+
+| Members | Pros | Cons | How to improve | Bring forward to final |
+| ------ | ------ | ------ | ------ | ------ |
+| Aleisha | messaging options and file options to upload and download. Mobile interface looks clean. detailed personas | Back button on the mobile interface would be nice|Maybe book room as a more important scenario |File options to download and upload|
+| Callum | Able to check study plan and cancel and change the timeslot of the booking. | |Its pretty crowded|cancel and change timeslot of booking |
+| Erin | Add friend. Tutors able to answer student questions. Website interface looks good. Notification bell. Group discussions chat| | |Group chat, tutors answer student questions page, add friend|
+| Lavanya/Priyal | Lecturer persona, Dc with study partner, adding tutor in course, Very colourful| |can reduce the steps to get to the chat display|lecturer persona and adding tutors to courses. |
+
+**Aleisha**
+
+| | Pros | Cons | How to improve? | What can we bring forward to our final one? |
+| - | - | - | - | - |
+| Lavanya & Priyal | Lots of graphics, detailed personas | | No way of moderating chat | Lecturer persona, room booking and study partner scenarios, pastel colour scheme |
+| Callum | Confirm group requests scenario, calendar main feature, group finder interface | | should calendar be so big? | group finder |
+| Erin | Separated way of communicating with tutors so no need for them to be in group chat | No scenario on how to use calendar | Write calendar tasks | Calendar, friend requests |
+| Jaimar | Flexibility with order of booking room or creating group | lack of colour | Clarity around processes | Project management tools |
+| Aleisha | Available times scenario, moderate chat | Login scenario is too 'important', uses mobile interface | Clarity around available times | Download and upload files, moderate chat |
+
+**Other notes**
+* Almost all have seemed to use blue in our prototypes, with lots of white space
+* Personas used: students, tutors, lecturers, international students 
+
 
 ## DESIGN IDEATION
 Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
