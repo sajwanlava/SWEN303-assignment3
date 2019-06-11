@@ -67,7 +67,7 @@ For tutors and academic staff, this application will be used to oversee the acti
 
 As this program will be used as a Victoria University of Wellington (VUW) application, the university are key stakeholders of it. The univerisity would need this to run well as it is a tool to support students and academic staff succeed in their work-life. 
  <br>
-## EVALUATIONS
+## EVALUATION OF PROTOTYPES
 
 **Lavanya**
 
