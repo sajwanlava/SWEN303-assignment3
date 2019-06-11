@@ -115,7 +115,7 @@ As this program will be used as a Victoria University of Wellington (VUW) applic
 | Erin | Add friend. Tutors able to answer student questions. Website interface looks good. Notification bell. Group discussions chat| | |Group chat, tutors answer student questions page, add friend|
 | Lavanya/Priyal | Lecturer persona, Dc with study partner, adding tutor in course, Very colourful| |can reduce the steps to get to the chat display|lecturer persona and adding tutors to courses. |
 
-**Aleisha **
+**Aleisha**
 
 | | Pros | Cons | How to improve? | What can we bring forward to our final one? |
 | - | - | - | - | - |
