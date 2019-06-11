@@ -50,17 +50,22 @@ accomplish.
 #### Business Objective
 Each trimester is only 4 months long, but there is plenty of content to learn, and students need a way of asking questions and studying
 effectively. The study organiser aims to increase efficiency in student learning and workflow as well as creating the opportunities for partnership in
-study sessions in an appropriate and approved environment. Many courses have group projects and require collaboration, and all courses encourage use of a discussion forum of sorts to share ideas and answer each other's questions. 
+study sessions in an appropriate and approved environment. Many courses have group projects and require collaboration, and all courses encourage use of a discussion forum of sorts to share ideas and answer each other's questions. should assist the students
+and tutors on finding a room to study or work with projects and manage it.
 
 The system should also be an easy, non-controversial way to reach tutors and academic staff. Facebook usually isn't appropriate for this, and email isn't as reliable. It should also be a way for tutors and academic staff to mitigate student interaction. The study organiser should support each user to see what available rooms there are to
 book, cancel bookings, show a map, communicate with other users and let them meet new people. As this is mainly for the use of students, this application should not take up anything significant in terms of the cost of running a course
-as lecturers as employees will not often have to use it.
+as lecturers, as employees, will not often have to use it.
 
 #### Importance
 A study organiser will be beneficial to many types of people at the university including; undergraduate, post-graduate, PhD students, tutors and academic staff. Coming from a multicultural city, there is expected to be a range of backgrounds our users have come from. Therefore, our personas
 were chosen to emulate the diversity of possible users and were based around aspects of individuals we had come into contact with during our personal university experiences. The system will be providing the opportunity to bring together those wishing to actively improve their learning by seeking help with
 others also wanting to learn and share their knowledge collaboratively. Furthermore, there are many merits about group study, such as enhancing
-students’ interest in learning and exploring knowledges and improving students’ ability of teamwork and social skills. Also students can develop friendships in university as its key to maintain a social life to continue to be mentally healthy. Users will get the chance to meet new people as well as improve their time management and study organisation. For tutors and academic staff, this application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism, student questions, attend or facilitate study groups, and provide helpful resources such as links to project management tools.
+students’ interest in learning and exploring knowledges and improving students’ ability of teamwork and social skills. Also students can develop friendships in university as its key to maintain a social life to continue to be mentally healthy. Users will get the chance to meet new people as well as improve their time management and study organisation. 
+
+For tutors and academic staff, this application will be used to oversee the activity of students to note whether the communication is occurring politely, to monitor any plagiarism, student questions, attend or facilitate study groups, and provide helpful resources such as links to project management tools. 
+
+As this program will be used as a Victoria University of Wellington (VUW) application, the university are key stakeholders of it. The univerisity would need this to run well as it is a tool to support students and academic staff succeed in their work-life. 
  
 
 ## PERSONAS
