@@ -507,8 +507,8 @@ Updated Design and Prototype
 - The update to the design
 - Description and a clear indication of what has changed and why, including links to issues in gitlab raised as part of testing
 
-##VIDEO
+## VIDEO
 
-##GROUP REFLECTIONS
+## GROUP REFLECTIONS
 
 
