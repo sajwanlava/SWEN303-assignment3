@@ -484,4 +484,6 @@ shown to tutors/lecturer, who can escalate to uni staff
 | Fill in username and password |  |
 |  | Verify and show info |
 
+## DESIGN IDEATION
+Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
 
