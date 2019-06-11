@@ -9,7 +9,7 @@
 <br>Priyal Patel -**
 
 ## BACKGROUND
-#### Introduction (Lavanya, Priyal, Aleisha)
+#### Introduction
 The Student Study and Collaboration tool is a critical system which enables students to find an available time and place to problem solve together and connects individuals wanting to study for mutual courses. Peer learning is about people from similar social groupings learning together and from each other. The benefits from peer learning are clear and well-researched, and it is leading to more educational institutions including peer learning in their curriculums.
 The application will provide an interface for students who already know each other, as well as an opportunity to meet other students interested in working on the same topics. There will be tools allowing students to communicate with one another and links to project management tools to ensure effective running of projects. Study groups are a good way to enact peer learning. At the moment, study groups and group project collaboration is organised using (primarily) social media. There is no one platform that allows communication between students working on the same course/topic, and finding a room and time to work together. The Study Organiser app would encourage peer learning in a centralised, easy-to-use platform by providing functionality to do all of these things and more.
 
@@ -49,7 +49,9 @@ accomplish.
 
 #### Business Objective
 The study organiser aims to increase efficiency in student learning and workflow as well as creating the opportunities for partnership in
-study sessions in an appropriate and approved environment. It should also be a way for tutors and academic staff to mitigate student interaction. The study organiser should support each user to see what available rooms there are to
+study sessions in an appropriate and approved environment. Many courses have group projects and require collaboration, and all courses encourage use of a discussion forum of sorts to share ideas and answer each other's questions. 
+
+The system should also be an easy, non-controversial way to reach tutors and academic staff. Facebook usually isn't appropriate for this, and email isn't as reliable. It should also be a way for tutors and academic staff to mitigate student interaction. The study organiser should support each user to see what available rooms there are to
 book, cancel bookings, show a map, communicate with other users and let them meet new people. As this is mainly for the use of students, this application should not take up anything significant in terms of the cost of running a course
 as lecturers as employees will not often have to use it.
 
