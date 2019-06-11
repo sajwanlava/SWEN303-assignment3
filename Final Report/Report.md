@@ -491,17 +491,17 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 
 <br>
 
-##DESIGN PRIOR TO USER TESTING
+## DESIGN PRIOR TO USER TESTING
 
 <br>
 
-##USABILITY TEST PLAN AND RESULTS
+## USABILITY TEST PLAN AND RESULTS
 
 Testing documents and results can be found under the "Testing" header in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
 
 Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) <br>
 
-##UPDATED DESIGN AND PROTOTYPE
+## UPDATED DESIGN AND PROTOTYPE
 Updated Design and Prototype
 
 - The update to the design
