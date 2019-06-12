@@ -561,7 +561,7 @@ Updated Design and Prototype
 
 ## INDIVIDUAL REFLECTIONS
 
-**Aleisha Amohia**
+**[Aleisha Amohia]**(https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Reflections/Aleisha-Amohia)
 
 **Callum Bridgen**
 
