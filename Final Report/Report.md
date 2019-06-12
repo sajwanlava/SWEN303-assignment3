@@ -170,7 +170,7 @@ Rahul uses the system to become better acquainted with other students and in doi
 **TINKERING:** Rahul does not mind tinkering with a program. He is an inquisitive person so when he gets the initial explanation on how to use something, he will keep on trying every scenario till he reaches all outcomes.  
 
 
-#### Domestic Student
+#### Domestic Student 1
 
 *BEYONCE (BY ALEISHA AMOHIA)*
 <br>Beyoncé is a 21 year old student at Victoria University of Wellington, living in the CBD. She is in a Computer Science Major in her third year. Most of her engineering and computer science courses include group assignments so she uses the Study Organiser app talk to her classmates and find rooms and times to meet with group members.
@@ -203,6 +203,37 @@ She likes that she has access to her peers and academic support without them see
 
 **TINKERING:** Beyoncé doesn't generally have time to experiment with programs but will learn the parts that she needs.
 
+
+#### Domestic Student 2
+
+*AROHA DAVIS (BY PRIYAL PATEL)*<br>
+Aroha is in her first year at Victoria University of Wellington starting towards a Bachelor of Biomedical science majoring in Human Genetics. She is enrolled in COMP102 in the first trimester however
+is struggling to cope with course content as it is all very new to her. Subsequently she is not achieving in her assessments and is stressed as she is taking COMP102 to satisfy a mandatory major requirement. The stress makes Aroha
+feel insecure about being at University. Her academic goals
+
+**ACTIVITIES:** Aroha enjoys watching and occasionally playing football, going for walks and watching movies.
+
+**ATTITUDES:** She is an extroverted and bubbly person who loves spending time having fun with friends and family.
+
+**APTITUDES:** She is naturally a healthy and fit person.
+
+**WEAKNESS:** She is a slow learner who gets overwhelmed easily.
+
+**DOMAIN KNOWLEDGE:** Aroha is new to the Kelburn campus and is still getting used to locating the different buildings and classrooms however she is good at looking for signs, reading maps and is not afraid to ask for help.
+
+**SYSTEM KNOWLEDGE:** Aroha is familiar with using a computer, comfortable with majority of online systems and has experience using Microsoft Software but is struggling to remember and understand the numerous new shortcuts and functionalities needed to do her coding assignments.
+
+**INTERACTION:** with the Study Organiser should be a few times a week to help her get the extra help she requires by finding study buddies for setting up study groups with or finding scheduled study groups to attend.
+
+**PRIORITIES:** Aroha usually aims to finish assessments as quickly as possible to a satisfactory but not exceeding standard, so she no longer has to worry about them. She focuses on learning the bare minimum to get her through courses.
+
+**MOTIVATIONS:** Aroha is very energetic and passionate when it comes to any outdoor activities but when it comes to school, she struggles to find motivation to do work. She hopes finding a study buddy to work on assignments, discuss and reinforce course concepts with will motivate her to do the work and help with her learning.
+
+**COMPUTER SELF EFFICACY:** She can’t perform many tasks on unfamiliar systems.
+
+**RISK TOLERANCE:** Comfortable using systems that she is experienced with therefore has a low risk tolerance.
+
+**INFORMATION PROCESSING:** Takes a couple reviews and practice for her to learn information.
 
 ## USE CASES
 
