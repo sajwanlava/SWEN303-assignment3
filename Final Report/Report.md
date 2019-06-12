@@ -6,7 +6,7 @@
 <br>Erin Jin - 
 <br>Jaimar Ong - 
 <br>Lavanya Sajwan - 300381661
-<br>Priyal Patel -**
+<br>Priyal Patel - 300363454**
 <br>
 ## BACKGROUND
 #### Introduction
@@ -103,7 +103,7 @@ As this program will be used as a Victoria University of Wellington (VUW) applic
 
 **TINKERING:** Yu Hong does not like tinkering on programs. She would rather use something that is easy and functional as that does not require much learning.  
 
-#### Tutor
+#### Tutor 1
 
 *AUSTIN LOWE (BY PRIYAL PATEL)*
 <br>Austin is a student in his third and last year studying towards a Bachelor of Design Innovation majoring in Interaction Design. Austin is looking for additional skills and experience which he can also add to his cv and remembers enjoying creating digital artwork and receiving excellent grades in that course. He will be tutoring first year students enrolled in the creative coding course DSDN142.
@@ -135,6 +135,32 @@ Austin has other commitments, among them his own study so he likes being able to
 **RISK TOLERANCE:** This ability to process information quickly gives him confidence with operating new systems as well as allowing himself to adapt to new environments and easily overcome technical obstacles either on his own, by looking up solutions online or asking one of his friends.  
 
 **INFORMATION PROCESSING:** He is a fast learner. 
+
+
+#### Tutor 2
+
+*ALEX (BY ERIN JIN)*<br> 
+Alex is a 22 years old domestic student, living at home in Wellington, and studying at Victoria University of Wellington. He is a computer science major in his third year, and he is preparing to study honour next year. Alex is also a tutor for Comp102, so he will use the study organizer to answer student’s questions. His goal with the application is to help students as much as he can. Alex has solid knowledge of computer science, and his future goal is to study Artificial Intelligence. He is going to do a lot of research on AI during his PHD study.
+
+**PERSONALITY:** Alex is very friendly and patient.
+
+**ACTIVITIES:** Alex spends most of his spare time studying at schools’ computer lab and help students. He also goes to talk with academic staff and he joins in on a lot of the AI Forum. He relaxes by going to gym.
+
+**ATTITUDES:** Alex is meticulous and strict, because of this, he has a tremendous amount of self-discipline.
+
+**APTITUDES:** Alex is studious and scrupulous. Hence, he can explore his own learning.
+
+**WEAKNESSES:** He does not like to socialize, so he does not have many friends.
+
+**SYSTEM KNOWLEDGE:** Alex is familiar with ECS discord, Facebook, Gitlab and Dropbox, due to his experience with them in his previous years of study.
+
+**INTERACTION:** Alex will interact with students during his study break time(potentially multiple times a day).
+
+**PRIORITIES:** Alex wants to consolidate his knowledge by helping students answer questions.
+
+**MOTIVATIONS:** Alex is using the study organizer to answer students’ questions to deepen their understanding, as well as his own, of that courses content and to help ensure they pass.
+
+**INFORMATION PROCESSING:** Alex grasps concepts quickly.
 
 #### International Student 
 
@@ -217,7 +243,7 @@ feel insecure about being at University. Her academic goals
 
 **APTITUDES:** She is naturally a healthy and fit person.
 
-**WEAKNESS:** She is a slow learner who gets overwhelmed easily.
+**WEAKNESSES:** She is a slow learner who gets overwhelmed easily.
 
 **DOMAIN KNOWLEDGE:** Aroha is new to the Kelburn campus and is still getting used to locating the different buildings and classrooms however she is good at looking for signs, reading maps and is not afraid to ask for help.
 
