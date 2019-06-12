@@ -1,7 +1,7 @@
 # SWEN303 Assignment 3: Student Study and Collaboration
 ## Team 8 : Final Report
 
-**Aleisha Amohia -
+**Aleisha Amohia - 300375530
 <br>Callum Bridgen -
 <br>Erin Jin - 
 <br>Jaimar Ong - 
@@ -282,27 +282,20 @@ feel insecure about being at University. Her academic goals
 | User | System |
 | - | - |
 | Choose room bookings system | |
-| | Ask for description, date, time, length, and invited attendees of booking |
+| | Ask for description, date, time, length, privacy, room and invited attendees of booking |
 | Provide required information | |
-| | Display rooms that fit criteria |
-| Choose room | |
-| | Display all booking information |
-| Confirm details | |
+| Submit details | |
 | | Display booking confirmation |
 | | Notify invited attendees |
-| | Show RSVPs |
-| | Show confirmed booking in calendar |
+| | Put confirmed booking in calendar |
 
 #### Find room bookings - all users (Aleisha Amohia)
 
 | User | System |
 | - | - |
 | Choose room bookings system | |
-| Type desired booking name | |
-| | Show bookings matching input |
+| | Show all public room bookings |
 | Choose desired booking | |
-| | Display booking information |
-| Request invite for booking | |
 | | Show invite has been requested |
 | | Notify booking attendees |
 | | Request approval from booking attendees |
@@ -313,21 +306,14 @@ feel insecure about being at University. Her academic goals
 | User | System |
 | - | - |
 | Choose room bookings system | |
-| Type desired booking name | |
-| | Show bookings matching input |
-| Choose desired booking | |
-| | Display booking information |
-| Choose 'edit booking' | |
-| | Ask for description, date, time, length, and invited attendees of booking |
+| | Show user's room bookings and information |
+| Choose 'edit' for desired booking | |
+| | Show edit fields |
 | Provide required information | |
-| | Display rooms that fit criteria |
-| Choose room | |
-| | Display all booking information |
-| Confirm details | |
+| Submit details | |
 | | Display booking confirmation |
 | | Notify invited attendees |
-| | Show RSVPs |
-| | Show confirmed booking in calendar |
+| | Put confirmed booking in calendar |
 
 #### Create, find, modify and use group chats - all users (Aleisha Amohia)
 
@@ -552,9 +538,13 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 
 <br>
 
-## USABILITY TEST PLAN AND RESULTS
+## USABILITY TEST PLAN 
 
-Testing documents and results can be found under the "Testing" header in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
+[View the Usability Test Plan in the wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Test-plan).
+
+## USABILITY TEST RESULTS
+
+[View the Usability Test Report in the wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Results/Report).
 
 Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) <br>
 
