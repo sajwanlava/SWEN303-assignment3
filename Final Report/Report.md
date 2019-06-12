@@ -69,8 +69,9 @@ As this program will be used as a Victoria University of Wellington (VUW) applic
  <br>
 
 ## PERSONAS
-(Very minor changes throughout by Jaimar and Callum.)
-*With a description of how the multiple personas coming into the group were merged to form between 4 and 6 Personas.*
+Our 6 personas were chosen with a focus on covering the range of unique potential users of our study organizer application. We considered the many different aspects of our users, which is evident within our personas, including: age, gender, roles, backgrounds, motivations etc. 
+We were able to combine existing personas from different members’ previous assignments for this project as together they provided the persona coverage we were aiming for. Our study organizer will have different functionality for lecturers and tutors compared to students as a reflection of their different intentions and goals for the application. 
+
 
 #### Lecturer 
 
