@@ -4,7 +4,7 @@
 **Aleisha Amohia - 300375530
 <br>Callum Bridgen -
 <br>Erin Jin - 
-<br>Jaimar Ong - 
+<br>Jaimar Ong - 300364226
 <br>Lavanya Sajwan - 300381661
 <br>Priyal Patel - 300363454**
 <br>
@@ -27,20 +27,20 @@ While discord is a widely-used communication tool for students, it is not the mo
 added by invite. Accounts are often anonymous, and these are the reasons why there is a disconnect between students and finding study partners is
 difficult.
 
-**TO ADD DISCORD PIC**
+![Discord](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Background/discord.png)
 
 The following is the new library booking system. While this is easy to follow and aesthetically pleasing, there is a lack of a collaborative aspect to this tool with
 no option of adding members to bookings. Subsequently, users may forget to inform study partners about a booking or study partners themselves could
 forget as they are not directly associated with the booking.
 
-**TO ADD LIBRARY BOOKING PIC**
+![Library Booking](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Background/librarybooking.png)
 
 The ECS forum has an overall outdated and dull design making it unappealing
 to users which is most likely why not many students continue to use it. When a forum page gets filled it becomes inconvenient to click ‘next page’. It would be ideal to have an infinite scroll instead as some users may want to look at
 forums from previous pages, and therefore there is no need to navigate
 backwards.
 
-**TO ADD ECS FORUM PIC**
+![ECS Forum](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Background/forum.png)
 
 From the analysis of these existing systems, it is seen that there is a need for a new study organiser tool which will be user-friendly and have effortless
 functionality. The Good to Go system will aim to address the fact that there is no pre-existing software which combines the constructive elements and minimises the drawbacks of all the existing tools. Currently, users are having to
