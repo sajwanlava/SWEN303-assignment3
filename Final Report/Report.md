@@ -27,7 +27,7 @@ While discord is a widely-used communication tool for students, it is not the mo
 added by invite. Accounts are often anonymous, and these are the reasons why there is a disconnect between students and finding study partners is
 difficult.
 
-![discord](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Background/discord.png)
+**TO ADD DISCORD PIC**
 
 The following is the new library booking system. While this is easy to follow and aesthetically pleasing, there is a lack of a collaborative aspect to this tool with
 no option of adding members to bookings. Subsequently, users may forget to inform study partners about a booking or study partners themselves could
