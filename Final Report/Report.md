@@ -205,6 +205,7 @@ She likes that she has access to her peers and academic support without them see
 
 
 ## USE CASES
+Scenarios were decided during the evaluation phase of everyone assignments. We picked traits from each we liked, and combined them to make a hybrid prototype with all those positive and helpful functionalities. The aim then was to make the scenarios based of those traits and that they were valid for the program. 
 
 #### Send & receive messages - all users (Aleisha Amohia)
 
