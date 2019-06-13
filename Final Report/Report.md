@@ -539,6 +539,7 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 
 ## DESIGN PRIOR TO USER TESTING
 
+[Pre-Testing Prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/prototype-pre-testing.xd)
 <br>
 
 ## USABILITY TEST PLAN 
