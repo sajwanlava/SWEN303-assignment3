@@ -568,6 +568,7 @@ pros
 - true combination of everyone’s prototypes from assignment 2
 - developed based on testing and feedback
 - natural and familiar to use
+
 cons
 - doesn’t take user input
 - can’t test really adding calendar events or room bookings 
