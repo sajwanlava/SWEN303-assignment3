@@ -564,6 +564,16 @@ After user testing the prototype, we came up with a list of issues. These were r
 
 While generating the user testing report, we left out the feedback on the colours and suggestion to use curves more on our prototype as we felt that this was subjective to the user and our team did appreciate the design we had chosen. The main two colours were blue and green. Blue was chosen as it is a calming colour for a user (as discussed in lectures), and the green as to try to still associate this as a VUW program. We chose to have straight lines rather than curved as while curved boxes draw attention to text, we instead designed our web interface to have succinct containers holding specific information, for example the header. Due to this, we believed their needed to be a definite disctinction between each part and this was done with the use to hard corners and straight lines. 
 
+pros
+- true combination of everyone’s prototypes from assignment 2
+- developed based on testing and feedback
+- natural and familiar to use
+cons
+- doesn’t take user input
+- can’t test really adding calendar events or room bookings 
+- we haven’t received feedback on version 2 with changes implemented so may not yet be perfect
+
+
 ## INDIVIDUAL REFLECTIONS
 
 **[Aleisha Amohia](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Reflections/Aleisha-Amohia)**
