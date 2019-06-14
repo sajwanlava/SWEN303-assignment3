@@ -559,7 +559,10 @@ Updated Design and Prototype
 
 ## VIDEO
 
-## GROUP REFLECTIONS
+## GROUP REFLECTION
+After user testing the prototype, we came up with a list of issues. These were rated using serverity levels and listed in the Usability Test Report. Therefore, when reworking our prototype based on the feedback, emphasis of completion was put upon those with severity level 1 and 2.
+
+While generating the user testing report, we left out the feedback on the colours and suggestion to use curves more on our prototype as we felt that this was subjective to the user and our team did appreciate the design we had chosen. The main two colours were blue and green. Blue was chosen as it is a calming colour for a user (as discussed in lectures), and the green as to try to still associate this as a VUW program. We chose to have straight lines rather than curved as while curved boxes draw attention to text, we instead designed our web interface to have succinct containers holding specific information, for example the header. Due to this, we believed their needed to be a definite disctinction between each part and this was done with the use to hard corners and straight lines. 
 
 ## INDIVIDUAL REFLECTIONS
 
