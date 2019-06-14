@@ -574,7 +574,7 @@ While generating the user testing report, we left out the feedback on the colour
 
 **Jaimar Ong**
 
-**Lavanya Sajwan**
+[**Lavanya Sajwan**](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Reflections/Lavanya-Sajwan)
 
 **Priyal Patel**
 
