@@ -271,7 +271,8 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | User | System |
 | - | - |
 | |  Display available chats |
-| Choose chat | |
+| Choose existing chat or choose new message | |
+| If new message, enter message recipient(s) | |
 | | Display chat log and interface |
 | Type message | |
 | | Show on other user's systems that user is typing |
@@ -318,30 +319,16 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Notify invited attendees |
 | | Put confirmed booking in calendar |
 
-#### Create, find, modify and use group chats - all users (Aleisha Amohia)
-
-| User | System |
-| - | - |
-| |  Display available chats |
-| Choose 'create chat' option | |
-| | Display user search interface |
-| Type desired user name(s) or group chat name | |
-| | Show users and groups matching input |
-| Select users or a group | |
-| Submit choice | |
-| | Show chat interface with containing specified user(s) |
-| | Notify selected user(s) that a new chat has been created |
-| Amend chat name | |
-| | Notify user(s) |
-
-#### View Calendar - all users (Priyal Patel)
+#### View calendar - all users (Priyal Patel)
 
 | User | System |
 | - | - |
 | Locate calendar | |
 | | Display Calendar |
+| Toggle views | |
+| | Display calendar in chosen view |
 
-#### Add Events to Calendar - all users (Priyal Patel)
+#### Add event to calendar - all users (Priyal Patel)
 
 | User | System |
 | - | - |
@@ -351,7 +338,7 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Allow users to create a new event |
 | | Add new event to user's Calendar |
 
-#### Edit Calendar Event - all users (Priyal Patel)
+#### Edit calendar event - all users (Priyal Patel)
 
 | User | System |
 | - | - |
@@ -361,41 +348,7 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Allow changes to existing events |
 | | Save and display changes on user's calendar
 
-#### Send New Message - all users (Priyal Patel)
-
-| User | System |
-| - | - |
-| Find recipient(s) | |
-| | Display and allow selection from all users to be message recipients |
-| Send message | |
-| | Allow users to construct a message |
-| | Send the message to the respective recipients |
-| | (as a message request to new recipients) |
-
-#### Reply to Messages - all users (Priyal Patel)
-
-| User | System |
-| - | - |
-| Select message | |
-| | Display messaging history |
-| | (exisiting messages) |
-| Write a reply | | 
-| | Allow users to construct a reply message |
-| send message | | 
-| | Send message reply to recipient(s) |
-
-#### Recieve Messages - all users (Priyal Patel)
-
-| User | System |
-| - | - |
-| View message requests | |
-| | Display notifications for pending message |
-| | requests, if any |
-| Respond to message requests | |
-| | Expand message requests (to get info) |
-| | Provide options to decline or accept |
-
-#### Upload Files (in chat) - all users (Priyal Patel)
+#### Upload files (in chat) - all users (Priyal Patel)
 
 | User | System |
 | - | - |
@@ -403,7 +356,7 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Open file browser | 
 | | Upload to the system within the chat |
 
-#### Download Files - all users (Priyal Patel)
+#### Download files - all users (Priyal Patel)
 
 | User | System |
 | - | - |
@@ -411,6 +364,40 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Allow option to download shared files |
 | | Scan for malware |
 | | Download file onto the user's system |
+
+#### Block users & report messages - all users (Erin Jin)
+shown to tutors/lecturer, who can escalate to uni staff
+
+| User | System |
+| - | - |
+| Choose user | |
+| | Display options | 
+| Choose block/report user | |
+| | Display report popup | 
+| Provide reasons | |
+| | Send notifications to lecturer/tutor |
+| | Hide blocked message/user from reportee |
+
+#### Moderate chat - tutors and lecturers only (Lavanya Sajwan)
+
+| User | System |
+| - | - |
+| Select course to observe | | 
+| | Display all affiliated and accessible courses to tutors and academic staff only |
+| Choose specific course | |
+| | Display all communication groups associated with chosen course |
+| Choose a specific group | |
+| | Diplays the chat |
+| Monitor behaviour | |
+
+#### Set user as tutor - lecturers only (Erin Jin)
+
+| User | System |
+| ------ | ------ |
+| Choose user |  |
+|  | Display info | 
+| Edit contact/Submit | |
+| | Display info |
 
 #### View links to project management tools - all users (Lavanya Sajwan)
 
@@ -420,44 +407,6 @@ Scenarios were decided during the evaluation phase of everyone assignments. We p
 | | Displays study group |
 | Click project management links on study group page | |
 | | Directs students to a seperate page on another tab to the selected project management tool  |
-
-#### Moderate chat - tutors and lecturers only (Lavanya Sajwan)
-
-| User | System |
-| - | - |
-| Select course to observe | | 
-| | Display all
-affiliated and accessible
-courses to tutors and academic staff
-only|
-| Choose specific course | |
-| | Display all communication groups associated with chosen course |
-| Choose a specific group | |
-| | Diplays the chat |
-| Monitor behaviour | |
-
-
-#### Block users & report messages - all users (Erin Jin)
-shown to tutors/lecturer, who can escalate to uni staff
-
-| User | System |
-| ------ | ------ |
-| Choose user |  |
-|  | Display options | 
-| Choose block/report user |  |
-|  | Display info | 
-|Choose/fill in reasons|  |
-|Choose report user to lecturer(tutor)/add user to blocked list| |
-||Sends notifications to lecturer/tutor|
-
-#### Set user as tutor - lecturers only (Erin Jin)
-
-| User | System |
-| ------ | ------ |
-| Choose user |  |
-|  | Display info | 
-|Edit contact/Submit||
-||Display info|
 
 #### Log in - all users (Erin Jin)
 
