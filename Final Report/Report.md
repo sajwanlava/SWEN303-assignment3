@@ -564,10 +564,7 @@ After user testing the prototype, we came up with a list of issues. These were r
 
 While generating the user testing report, we left out the feedback on the colours and suggestion to use curves more on our prototype as we felt that this was subjective to the user and our team did appreciate the design we had chosen. The main two colours were blue and green. Blue was chosen as it is a calming colour for a user (as discussed in lectures), and the green as to try to still associate this as a VUW program. We chose to have straight lines rather than curved as while curved boxes draw attention to text, we instead designed our web interface to have succinct containers holding specific information, for example the header. Due to this, we believed their needed to be a definite disctinction between each part and this was done with the use to hard corners and straight lines. 
 
-pros
-- true combination of everyone’s prototypes from assignment 2
-- developed based on testing and feedback
-- natural and familiar to use
+With discussions with the team, we decided that the best characteristic of our prototype was that it was a true combination of everyone's previous prototypes from assignment 2. This was in part due to our own individual evaluations of each prototype, but also that we spent an entire meeting discussing what functionalities and aesthetics we liked from everyone and what we would bring forward. Developing constantly occurred internally as the team was comfortable enough with each other to state their dislikes and contribute feedback on each others design choices. That being said what we also did really well was designing based off the usability test. We took the feedback seriously and immediately took to reworking our prototype based on it. Susequently, our design is natural and familiar to use. 
 
 cons
 - doesn’t take user input
