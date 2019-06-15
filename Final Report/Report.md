@@ -2,7 +2,7 @@
 ## Team 8 : Final Report
 
 **Aleisha Amohia - 300375530
-<br>Callum Bridgen -
+<br>Callum Bridgen - 300382983
 <br>Erin Jin - 
 <br>Jaimar Ong - 300364226
 <br>Lavanya Sajwan - 300381661
