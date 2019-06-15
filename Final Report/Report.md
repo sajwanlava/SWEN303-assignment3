@@ -3,7 +3,7 @@
 
 **Aleisha Amohia - 300375530
 <br>Callum Bridgen - 300382983
-<br>Erin Jin - 
+<br>Erin Jin - 300380297
 <br>Jaimar Ong - 300364226
 <br>Lavanya Sajwan - 300381661
 <br>Priyal Patel - 300363454**
