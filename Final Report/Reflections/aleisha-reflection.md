@@ -31,8 +31,8 @@ The group functioned well as a whole. There was no one who contributed significa
 
 ## Marking rubric
 
-* Design Review [15]
+* Design Review [10]
 * Testing [40]
 * Design Update [15]
-* Documentation & video [10]
-* Individual Reflections [20]
+* Documentation & video [25]
+* Individual Reflections [10]
