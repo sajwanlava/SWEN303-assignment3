@@ -7,7 +7,7 @@
 <br>Jaimar Ong - 300364226
 <br>Lavanya Sajwan - 300381661
 <br>Priyal Patel - 300363454**
-<br>
+
 ## BACKGROUND
 #### Introduction
 The Student Study and Collaboration tool is a critical system which enables students to find an available time and place to problem solve together and connects individuals wanting to study for mutual courses. Peer learning is about people from similar social groupings learning together and from each other. The benefits from peer learning are clear and well-researched, and it is leading to more educational institutions including peer learning in their curriculums.
@@ -416,13 +416,13 @@ shown to tutors/lecturer, who can escalate to uni staff
 |  | Display log in info | 
 | Fill in username and password |  |
 |  | Verify and show info |
-<br>
 
 ## DESIGN IDEATION
 Previous designed prototypes at the bottom of the homepage in the [wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/home).
-<br>
 
 ## DESIGN REVIEW
+
+The following tables are our individual evaluations of each other's prototypes from Assignment 2 - the pros, cons, what we thought could have been improved, and features we definitely wanted in our group prototype. We used this method because it allowed us to get a well-rounded view of what each member thought a 'good' final prototype would include, and made it easy to work out which parts to cherry-pick from our Assignment 2 prototypes.
 
 **Lavanya**
 
@@ -484,12 +484,9 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 * Almost all have seemed to use blue in our prototypes, with lots of white space
 * Personas used: students, tutors, lecturers, international students 
 
-<br>
-
 ## DESIGN PRIOR TO USER TESTING
 
 [Pre-Testing Prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/prototype-pre-testing.xd)
-<br>
 
 ## USABILITY TEST PLAN 
 
@@ -499,15 +496,58 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 
 [View the Usability Test Report](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/usability-test-report.md).
 
-Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) <br>
+Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) 
 
 ## UPDATED DESIGN AND PROTOTYPE
-Updated Design and Prototype
 
-- The update to the design
-- Description and a clear indication of what has changed and why, including links to issues in gitlab raised as part of testing
+**[FINAL PROTOTYPE](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/prototype-final.xd)**
+[Lecturer view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/lecturer-monitor_Latest_Version_Erin.xd)
+[Tutor view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/tutor-monitor_Latest_Version_Erin.xd)
+
+### Problems from Usability Testing Feedback
+
+| Problem | Severity | Fixed? | Gitlab |
+| - | - | - | - |
+| Wasn't clear there were unread/new notifications | 4 | Added a red bubble to indicate there are unread notifications | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/26) |
+| There is a lot of space on the page for a web-app, maybe have chat open always by default | 4 | Made messaging a constant opened feature | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/56) |
+| Power sign as logout doesn’t make sense | 2 | Used a 'leaving' icon | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/22) |
+| Project management tools heading too long | 4 | Renamed to 'Tools' | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/60) |
+| Project management tools should be text not pictures | 3 | Made text links instead of picture links | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/61) |
+| 2 links are redundant for home and calendar if show same thing | 2 | Kept Calendar link - 'Home' wasn't descriptive enough | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/25) |
+| No way to ‘go back’ from the expanded chat page | 2 | Added a back arrow | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/50) |
+| **No way to ‘shrink’ expanded chat page back to small popup** | 2 | NOT FIXED - Hard to do in Adobe XD |
+| Downloading file closes chat box | 1 | Made overlays so downloading file would not close chat box | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/27) |
+| Should be able to click whole file to download it, not just little download icon | 4 | NOT FIXED | |
+| Can only report user from full page message view | 2 | Added functionality in pop-up chats and full-page chats for reporting messages and users in both individual chats and group chats | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/46), [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/47) |
+| Upload file icon is unfamiliar | 4 | Used paper clip attachment icon instead | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/48) |
+| Cancel bookings form not linked back to Room bookings home | 3 | Fixed | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/43) |
+| Redirected to Home after making a booking or requesting to join an existing booking | 2 | Returned to Room Bookings home after making a booking and remain on page when joining existing bookings | [Issue - joining booking](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/41), [Issue - creating booking](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/42) |
+| No way to delete a room booking | 1 | Added delete button | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/38) |
+| X button doesn’t work to close confirm box after requesting to join | 3 | Fixed | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/44) |
+| Unclear what room booking privacy means | 3 | Added hint text | |
+| Removing students from a room booking when editing is confusing | 4 | Added text 'uncheck to remove' for clarity | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/37) |
+| **Not obvious calendars can be scrolled** | 4 | NOT FIXED - unnecessary fix, and not severe problem | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/28) |
+| Calendar views are too low/not easy to find/hard to click | 2 | Moved views to the top of the page and made whole button clickable instead of just text | [Issue - clicking whole row](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/36), [Issue - moving to top of page](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/39) |
+| Hard to visually separate calendar days | 4 | Added line dividers to separate days | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/35) |
+| 'add calendar' button clicked before 'add event' button | 2 | Removed the unnecessary 'add calendar' button and made 'add event' button clearer | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/34) |
+| No way to view whole calendar event/edit calendar event | 1 | Added a pop-up to view and edit a calendar event | [Issue - edit event](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/31), [Issue - view event](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/32) |
+| **Can't confirm adding a calendar event** | 2 | NOT FIXED - we decided a confirmation pop-up for adding a calendar event is unnecessary because the event would normally show in the calendar as confirmation | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/33) |
+| The confirmation pop-up box is unnecessary | 3 | Removed confirmation box but there is still a 'downloading' pop-up | [Issue](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/27) |
+
+Our final prototype includes fixes for most of the problems raised in our [usability testing](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/usability-test-report.md). The problems that were not fixed are in bold.
+
+Additional fixes:
+* [Remove unnecessary and unused searchbar](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/23)
+* [Changed 'Discover room booking' to 'Find booking'](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/29)
+* [Click anywhere on calendar to add event](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/30)
+* [Making a pop-up chat box for group chats](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/49)
+* [Add lecturer view so that lecturers can assign tutors to a course](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues/19)
+
+[All issues in Gitlab raised as part of testing](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards?scope=all&utf8=✓&state=opened&label_name[]=Design%20Update)
 
 ## VIDEO
+
+[View the final prototype demonstration video](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/swen303-final-prototype-demo.mp4)
 
 ## GROUP REFLECTION
 After user testing the prototype, we came up with a list of issues. These were rated using severity levels and listed in the Usability Test Report. Therefore, when reworking our prototype based on the feedback, the emphasis of completion was put upon those with severity level 1 and 2.
