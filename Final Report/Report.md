@@ -86,23 +86,23 @@ feel insecure about being at University. Her academic goals
 
 **APTITUDES:** She is naturally a healthy and fit person.
 
-**WEAKNESSES:** She is a slow learner who gets overwhelmed easily.
+**WEAKNESSES:** She is a slow learner who gets overwhelmed easily. She can also be lazy and leaves things to the last minute. 
 
-**DOMAIN KNOWLEDGE:** Aroha is new to the Kelburn campus and is still getting used to locating the different buildings and classrooms however she is good at looking for signs, reading maps and is not afraid to ask for help.
+**DOMAIN KNOWLEDGE:** Aroha is new to university and has come from a highschool which is very small and everyone knows each other. Therefore, she has not had much experience with the university systems and a study organiser app.
 
-**SYSTEM KNOWLEDGE:** Aroha is familiar with using a computer, comfortable with majority of online systems and has experience using Microsoft Software but is struggling to remember and understand the numerous new shortcuts and functionalities needed to do her coding assignments.
+**SYSTEM KNOWLEDGE:** Aroha is familiar with using a computer, comfortable with majority of online systems and has experience using Microsoft Software but is struggling to remember and understand the numerous new shortcuts and functionalities needed to do her coding assignments, and the univerisity systems.
 
-**INTERACTION:** with the Study Organiser should be a few times a week to help her get the extra help she requires by finding study buddies for setting up study groups with or finding scheduled study groups to attend.
+**INTERACTION:** Initially as Aroha is not very motivated, the Study Organiser app would be neglected. But as she becomes panicky about passing her requirements for her degree, she would use it a few times a week to help her get the extra help she requires by finding study buddies for setting up study groups with or finding scheduled study groups to attend.
 
-**PRIORITIES:** Aroha usually aims to finish assessments as quickly as possible to a satisfactory but not exceeding standard, so she no longer has to worry about them. She focuses on learning the bare minimum to get her through courses.
+**PRIORITIES:** Aroha will use this to find a study partner who will be a bit more onto it than she is, and hopefully is kind enough to support her learning. 
 
-**MOTIVATIONS:** Aroha is very energetic and passionate when it comes to any outdoor activities but when it comes to school, she struggles to find motivation to do work. She hopes finding a study buddy to work on assignments, discuss and reinforce course concepts with will motivate her to do the work and help with her learning.
+**MOTIVATIONS:** Aroha is very energetic and passionate when it comes to any outdoor activities but when it comes to school, she just wants to pass her mandatory requirements and find motivation to do work. 
 
 **COMPUTER SELF EFFICACY:** She can’t perform many tasks on unfamiliar systems.
 
-**RISK TOLERANCE:** Comfortable using systems that she is experienced with therefore has a low risk tolerance.
+**RISK TOLERANCE:** Comfortable using systems that she is experienced with, but with new ones she gives up and therefore, she has a low risk tolerance.
 
-**INFORMATION PROCESSING:** Takes a couple reviews and practice for her to learn information.
+**INFORMATION PROCESSING:** Takes a couple reviews and practice for her to learn information and someone, usually a friend, has to push her to do it.
 
 #### International Student 
 
@@ -516,11 +516,13 @@ While generating the user testing report, we left out the feedback on the colour
 
 In the final prototype, another thing we left out was when the chats were expanded to become full-screen chat interface; it was unable to be shrunk down from the full page back to the pop-up. This was more to do with an Adobe XD feature, as it does not let overlays go back to their last state; instead, it resets the page completely.
 
-Another thing we also left out was connecting the lecturer and tutor monitor pages, and the lecturer add tutor page. This is because those actions are for a small group of people, and if we wanted to add it in, we would have to build identical prototype applications around them as our final prototype is for our primary stakeholders - students. This was submitted with our final, however, to show that we have talked about it and will be added to our video to show how the interactions work. 
+Another thing we also left out was connecting the lecturer and tutor monitor pages, and the lecturer add tutor page. This is because those actions are for a small group of people, and if we wanted to add it in, we would have to build identical prototype applications around them as our final prototype is for our primary stakeholders - students.  Due to this we also did not implement a specific view for tutors and lecturers to be able to read reported messages, as we thought that this would be incorporated in the monitor chat anyway. The monitor pages and add tutor interaction is submitted with our final, to show that we have talked about it and will be added to our video to show how the interactions work. 
 
-With discussions with the team, we decided that the best characteristic of our prototype was that it was a true combination of everyone's previous prototypes from assignment 2. This was in part due to our evaluations of each prototype, but also that we spent an entire meeting discussing what functionalities and aesthetics we liked from everyone and what we would bring forward. Developing regularly occurred internally as the team was comfortable enough with each other to state their dislikes and contribute feedback on each other's design choices. That being said, what we also did well was designing based on the usability test. We took the feedback seriously and immediately took to reworking our prototype based on it. Subsequently, our design is natural and familiar to use.
+We did not implement showing scroll bars on the prototype as that issue was rated a low severity and in actuality, many users use laptops which do not even show a scroll bar anymore; nameably Apple Macs. Another low severity issue we did not do was the group chat to be of higher precedence than the other chats as one of our testers suggested. This was because we decided that it would be more intuitive for messages to be listed in chronological order. 
 
-What we could have improved in was our prototype does not take user input in. Therefore, we can not anticipate whether users will like how the prototype processes it. Due to the lack of this user input, we cannot test adding a calendar or room booking either. Also, even though we were prompt in implementing the user feedback changes, we did not a user test our final prototype again. While this was not a necessity to do well in this project, we feel as though it would have bettered our prototype overall as it would give us a conclusive answer as to whether or not our prototype was the best it could be. Especially since in the user testing phase, we had some pages which were disconnected to the overall prototype and therefore could not be tested effectively. 
+With discussions with the team, we decided that the best characteristic of our prototype was that it was a true combination of everyone's previous prototypes from assignment 2. This was in part due to our evaluations of each prototype, but also that we spent an entire meeting discussing what functionalities and aesthetics we liked from the initial prototypes and what we would bring forward. Developing regularly occurred internally as the team was comfortable enough with each other to state their dislikes and contribute feedback on each other's design choices. That being said, what we also did well was designing based on the usability test. We took the feedback seriously and immediately took to reworking our prototype based on it. Subsequently, our design is natural and familiar to use.
+
+Our final prototype does not take in any user inputs and this was something we could have improved with our prototype. Therefore, we can not anticipate whether users will like how the prototype processes it. Due to the lack of this user input, we cannot test adding a calendar or room booking either. While we were prompt in implementing the user feedback changes, we did not usability test our final prototype again. While this was not a necessity, to do well in this project, we feel as though it would have bettered our prototype overall, as it would give us a conclusive answer as to whether or not our prototype was the best it could be.
 
 ## INDIVIDUAL REFLECTIONS
 
