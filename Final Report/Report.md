@@ -86,23 +86,23 @@ feel insecure about being at University. Her academic goals
 
 **APTITUDES:** She is naturally a healthy and fit person.
 
-**WEAKNESSES:** She is a slow learner who gets overwhelmed easily.
+**WEAKNESSES:** She is a slow learner who gets overwhelmed easily. She can also be lazy and leaves things to the last minute. 
 
-**DOMAIN KNOWLEDGE:** Aroha is new to the Kelburn campus and is still getting used to locating the different buildings and classrooms however she is good at looking for signs, reading maps and is not afraid to ask for help.
+**DOMAIN KNOWLEDGE:** Aroha is new to university and has come from a highschool which is very small and everyone knows each other. Therefore, she has not had much experience with the university systems and a study organiser app.
 
-**SYSTEM KNOWLEDGE:** Aroha is familiar with using a computer, comfortable with majority of online systems and has experience using Microsoft Software but is struggling to remember and understand the numerous new shortcuts and functionalities needed to do her coding assignments.
+**SYSTEM KNOWLEDGE:** Aroha is familiar with using a computer, comfortable with majority of online systems and has experience using Microsoft Software but is struggling to remember and understand the numerous new shortcuts and functionalities needed to do her coding assignments, and the univerisity systems.
 
-**INTERACTION:** with the Study Organiser should be a few times a week to help her get the extra help she requires by finding study buddies for setting up study groups with or finding scheduled study groups to attend.
+**INTERACTION:** Initially as Aroha is not very motivated, the Study Organiser app would be neglected. But as she becomes panicky about passing her requirements for her degree, she would use it a few times a week to help her get the extra help she requires by finding study buddies for setting up study groups with or finding scheduled study groups to attend.
 
-**PRIORITIES:** Aroha usually aims to finish assessments as quickly as possible to a satisfactory but not exceeding standard, so she no longer has to worry about them. She focuses on learning the bare minimum to get her through courses.
+**PRIORITIES:** Aroha will use this to find a study partner who will be a bit more onto it than she is, and hopefully is kind enough to support her learning. 
 
-**MOTIVATIONS:** Aroha is very energetic and passionate when it comes to any outdoor activities but when it comes to school, she struggles to find motivation to do work. She hopes finding a study buddy to work on assignments, discuss and reinforce course concepts with will motivate her to do the work and help with her learning.
+**MOTIVATIONS:** Aroha is very energetic and passionate when it comes to any outdoor activities but when it comes to school, she just wants to pass her mandatory requirements and find motivation to do work. 
 
 **COMPUTER SELF EFFICACY:** She can’t perform many tasks on unfamiliar systems.
 
-**RISK TOLERANCE:** Comfortable using systems that she is experienced with therefore has a low risk tolerance.
+**RISK TOLERANCE:** Comfortable using systems that she is experienced with, but with new ones she gives up and therefore, she has a low risk tolerance.
 
-**INFORMATION PROCESSING:** Takes a couple reviews and practice for her to learn information.
+**INFORMATION PROCESSING:** Takes a couple reviews and practice for her to learn information and someone, usually a friend, has to push her to do it.
 
 #### International Student 
 
