@@ -74,6 +74,10 @@ One of the key things I have taken away from this assignment is the significance
 I feel like the group worked very well together throughout this project. We all maintained communication throughout the project, voicing our opinions, reporting our progress, offering our help and praising one another. We were able to establish, distribute and complete tasks, as well as identify and problem solve issues that did arise. I contributed in meetings where members were very quiet through speaking up and taking lead in directly asking members of their thoughts and needs so that we were avoiding wasting time, getting decisions made and progressing with our project. I identified what needed to be done during meetings and aimed to ensure we would have discussed and resolve all the issues that had been planned for those meetings. I regularly asked questions as to check up on others progress and what tasks still needed to be done and what I could contribute towards. 
 
 
+## USER TESTING
+
+I was a tester for team 18 
+
 ## INDIVIDUAL MARKING RUBRIC
 
 Design Review \[10\]
