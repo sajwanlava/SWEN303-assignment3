@@ -22,7 +22,7 @@ Puppy – Erin (The Enthusiast Always supports ideas, and wants to help add and 
 The puppy in our group offered their help and suggestions throughout this project. Particularly towards the end Erin was constantly working on the prototype updating based off our user testing results and running these updates through the rest of the group. 
 
 Owl – Jaimar (The Processor Focuses on making sure that the required objectives are met. Likes to make and complete lists)
-The Owl was not evidently ensuring we were meeting the required objectives, they did not bring this up within the group. Jaimar did not make lists as far as I am aware. He was contributing in other aspects throughout this project and was always asking if there was anything more he could do. He participated in the user testing and actively worked on the prototype throughout the project.
+The Owl was not evidently ensuring we were meeting the required objectives, they did not bring this up within the group or use any lists. He was contributing in other aspects throughout this project and was always asking if there was anything more he could do. He participated in the user testing and actively worked on the prototype throughout the project.
 
 Rabbit – Aleisha (The Facilitator Spots when things are missing and volunteers to go and get stuff. Talks to the session organiser)
 The rabbit followed their role very accurately. They took the minutes of our meetings which are in the wiki which was very handy to look back on to recall all that was achieved and planned in the meetings. Aleisha consistently communicated with the group throughout the entirety of the project, talking about things we have missed and her voiced her opinion on aspects she saw we could improve and change. 
