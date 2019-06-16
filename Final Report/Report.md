@@ -538,4 +538,11 @@ Our final prototype does not take in any user inputs and this was something we c
 
 **Priyal Patel**
 
+## MARKING RUBRIC
+
+* Design Review [10]
+* Testing [40]
+* Design Update [20]
+* Documentation & video [20]
+* Group Reflections [10]
 
