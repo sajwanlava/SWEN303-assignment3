@@ -497,7 +497,7 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 
 ## USABILITY TEST RESULTS
 
-[View the Usability Test Report in the wiki](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Results/Report).
+[View the Usability Test Report](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/usability-test-report.md).
 
 Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards) <br>
 
