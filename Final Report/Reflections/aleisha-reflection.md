@@ -17,7 +17,7 @@ My contributions included:
 * adding the calendar module to the prototype and other prototype linking and fixing
 * conducting usability testing
 * writing usability documentation ( [Usability test plan](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Test-plan), [tasks](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Usability-test-tasks), [pre-](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Results/Pre-test-questionnaire) and [post-](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Results/Post-test-questionnaire)test questionnaires, and [final report](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/wikis/Testing/Results/Report) )
-* creating the final prototype demo video
+* creating the [final prototype demo video](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/swen303-final-prototype-demo.mp4)
 
 [View the issues assigned to me in Gitlab](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards?scope=all&utf8=✓&state=opened&assignee_username=amohiaalei)
 
