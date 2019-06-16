@@ -1,7 +1,7 @@
-##INDIVIDUAL CONTRIBUTION AND REFLECTION
+## INDIVIDUAL CONTRIBUTION AND REFLECTION
 
 
-##CONTRIBUTION
+## CONTRIBUTION
 
 In this group project I was given the role of the Wolf. The Wolf is the manager; the head of the pack who makes sure everyone is contributing and tells the bear to stop talking, if needed. 
 
@@ -10,7 +10,7 @@ I believe I have played the role of the Wolf competently throughout this group p
 I do not believe the role system was effective. I was fortunate enough to have members of my group who collectively provided all the traits covered by these roles. We did not closely follow the roles, we always had someone to fulfil the roles however not always by the person who was originally allocated the role. I feel like the roles gave people personalities and traits to follow but in reality some members did not match their roles and therefore were made to feel uncomfortable in certain situations. Throughout the project we allocated jobs by asking what tasks members wanted to do and were comfortable carrying out. 
 
 
-##EVALUATION OF ROLES
+## EVALUATION OF ROLES
 
 Bear - Lavanya (The Leader The person who likes to lead, has a vision and ideas they want to develop. Usually the loudest in the group)
 The Bear in our group was a key member of the group who most definitely was (one of) the loudest in the groups and lead us through this project. Lavanya consistently gave updates on our progress and project status and what needs to be done. She also booked rooms for group meetings and set up most of the pages on git for us to use and add to.
@@ -27,7 +27,7 @@ The Owl was not evidently ensuring we were meeting the required objectives, they
 Rabbit – Aleisha (The Facilitator Spots when things are missing and volunteers to go and get stuff. Talks to the session organiser)
 The rabbit followed their role very accurately. They took the minutes of our meetings which are in the wiki which was very handy to look back on to recall all that was achieved and planned in the meetings. Aleisha consistently communicated with the group throughout the entirety of the project, talking about things we have missed and her voiced her opinion on aspects she saw we could improve and change. 
 
-##RESPONSIBILITY DESCRIPTION 
+## RESPONSIBILITY DESCRIPTION 
 
 Aleisha	
 Creating the Calendar in the app
@@ -61,11 +61,11 @@ Messaging inside the app
 Updating prototypes after user testing
 	
 
-##Issues I was specifically responsible for: 
+## Issues I was specifically responsible for: 
 https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/boards?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=patelpriy6
 
 
-##REFLECTION
+## REFLECTION
 
 I am proud of the overall look of our prototype which was influenced from mine and Lavanya’s group assignment 2 prototype. I have an eye for design which made it easy for me to identify parts of our prototype which could be improved to provide a more smooth finish that is appealing to our users. Even just the small things such as layout, colours and transitions. The aesthetic of our prototype definitely highlights the features of our model and brings out the best in our design which allows for a more satisfying experience with the application. 
 
