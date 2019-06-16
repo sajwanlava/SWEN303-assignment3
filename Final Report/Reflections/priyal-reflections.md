@@ -16,7 +16,7 @@ Bear - Lavanya (The Leader The person who likes to lead, has a vision and ideas 
 The Bear in our group was a key member of the group who most definitely was (one of) the loudest in the groups and lead us through this project. Lavanya consistently gave updates on our progress and project status and what needs to be done. She also booked rooms for group meetings and set up most of the pages on git for us to use and add to.
 
 Cat – Callum (The Cynic The person who can find the holes in ideas, and the ways of cheating the system)
-It was not apparent to me that the cat found holes in our ideas and ways to cheat the system. As stated above we did not really stick to the roles. Callum did handle most of the initial prototype connecting and prototype updating and perhaps found cheat ways to make things more efficient during these processes.
+Callum was very skilled with adobeXd and had found ways to incorporate effective scrollable elements in our design as well as providing efficient and clever ways to add prototype links which connected our model together. 
 
 Puppy – Erin (The Enthusiast Always supports ideas, and wants to help add and develop ideas)
 The puppy in our group offered their help and suggestions throughout this project. Particularly towards the end Erin was constantly working on the prototype updating based off our user testing results and running these updates through the rest of the group. 
