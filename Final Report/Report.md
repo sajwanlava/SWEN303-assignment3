@@ -500,9 +500,9 @@ Issues to be updated can be found on our [issue board](https://gitlab.ecs.vuw.ac
 
 ## UPDATED DESIGN AND PROTOTYPE
 
-**[FINAL PROTOTYPE](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/prototype-final.xd)**
-[Lecturer view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/lecturer-monitor_Latest_Version_Erin.xd)
-[Tutor view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/tutor-monitor_Latest_Version_Erin.xd)
+* **[FINAL PROTOTYPE](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/prototype-final.xd)**
+* [Lecturer view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/lecturer-monitor_Latest_Version_Erin.xd)
+* [Tutor view prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Prototypes/After%20testing/tutor-monitor_Latest_Version_Erin.xd)
 
 ### Problems from Usability Testing Feedback
 
