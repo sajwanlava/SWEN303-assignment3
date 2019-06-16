@@ -425,7 +425,7 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 ![Aleisha's assignment 2 prototype](Final%20Report/Background/aleisha.png)
 
 **Lavanya & Priyal Assignment 2 Prototype**
-![Lavanya & Priyal Assignment 2 Prototype](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Background/lav_priyal_ass2prototype.png)
+![Lavanya & Priyal Assignment 2 Prototype](Final%20Report/Background/lav_priyal_ass2prototype.png)
 
 ## DESIGN REVIEW
 
