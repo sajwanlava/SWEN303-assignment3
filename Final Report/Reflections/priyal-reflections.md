@@ -29,36 +29,36 @@ The rabbit followed their role very accurately. They took the minutes of our mee
 
 ## RESPONSIBILITY DESCRIPTION 
 
-Aleisha	
-Creating the Calendar in the app
-Putting together the usability test plan
-User testing
-Creating the Calendar in the app
+Aleisha	<br>
+Creating the Calendar in the app<br>
+Putting together the usability test plan<br>
+User testing<br>
+Creating the Calendar in the app<br>
 
-Callum	
-Initial prototype design
-Adding prototype links/connecting pages
-Booking pages in the app
+Callum	<br>
+Initial prototype design<br>
+Adding prototype links/connecting pages<br>
+Booking pages in the app<br>
 
-Erin	
-User testing
-Project management tools in the app
-Updating prototypes after user testing
+Erin	<br>
+User testing<br>
+Project management tools in the app<br>
+Updating prototypes after user testing<br>
 	
-Jaimar	
-Initial prototype design
-User testing
-Updating prototypes after user testing
+Jaimar	<br>
+Initial prototype design<br>
+User testing<br>
+Updating prototypes after user testing<br>
 	
-Lavanya	
-Created the user testing tasks and surveys 
-Lecture/Tutor pages
-Testing final prototype
-	
-Priyal	
-Design of the app (incl. logo)
-Messaging inside the app
-Updating prototypes after user testing
+Lavanya	<br>
+Created the user testing tasks and surveys <br>
+Lecture/Tutor pages<br>
+Testing final prototype<br>
+
+Priyal	<br>
+Logo Design<br>
+Messaging/chat inside the app<br>
+Updating prototypes after user testing<br>
 	
 
 ## Issues I was specifically responsible for: 
