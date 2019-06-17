@@ -1,4 +1,4 @@
-##Contribution
+### Contribution
 
 In our group, I held the Enthusiast Puppy role. During this project, I always try to be enthusiastic, I went to all the group meeting, joined the group chat and shared my ideas about each part of the project. I also listened and supported the creation of new ideas, helped and developed the ideas innovative solutions to challenges during each part of the project. During the whole project, I think I performed well in this role.
 
@@ -9,7 +9,7 @@ In the creation of the prototype, I was mainly doing the project management tool
 This is the link here that shows the specific issues assigned to me.   
 
 
-##Reflection
+### Reflection
 
 I am so proud of me and other group members finished the usability test task so well, we got lots of pertinent advises from our participants. Those feedback is the reflection of our prototype. I really understood, the first significant thing of the user interface design which is that we need to know the needs of users. And I understood what does the user think by I was being a participant to test other groups prototype. I’m so lucky to work with everybody in this team, everyone has a strong sense of responsibility, we helped each other, solved difficulties and shared load. We all put on efforts for our project, especially I like we share ideas and then assigned tasks for everyone.
 
