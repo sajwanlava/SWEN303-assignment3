@@ -23,3 +23,7 @@ Our team, as a whole, was a strong one. I think we all contributed equally and w
 - Design Update \[10\]
 - Documentation & video \[25\]
 - Individual Reflections \[30\]
+
+
+**Lavanya Sajwan - 300381661**
+I tested for T5
