@@ -1,4 +1,4 @@
-### Contribution
+### CONTRIBUTION 
 
 In our group, I held the Enthusiast Puppy role. During this project, I always try to be enthusiastic, I went to all the group meeting, joined the group chat and shared my ideas about each part of the project. I also listened and supported the creation of new ideas, helped and developed the ideas innovative solutions to challenges during each part of the project. During the whole project, I think I performed well in this role.
 
@@ -6,10 +6,10 @@ In the beginning of the project, each team member was trying to fit their own ro
 
 In the creation of the prototype, I was mainly doing the project management tool of the app. During the user testing, I was a test observer. And I did some updates for the prototype after user testing, I also helped to link all the changes of the prototype which are from other group members into a final version of the prototype. In the part of user testing, I contacted with other group’s members and invited them to be our group’s participants for the user testing. And I also was a tester for team 1. During the testing process, I was a silent observer and I assists the data logger in identifying problems, concerns, coding bugs, and procedural errors. For instance, we was expecting 10 minutes for each testing period, but each testing actually took about 25 minutes which means all the testing schedule was changed so that I must communicate with other participants and arrange  new time for them, we were so lucky , the participants are all really nice, they wold like to wait rather than request an new testing time for another day.  Therefore, the half of the testing time I didn’t take notes from user, but I was happy to make our participants come in right time,  make our testing process go smoothly and we do not need to find another testing day, saved time and also get more time for our fixing of the prototype.
 
-This is the link here that shows the specific issues assigned to me.   
+This is the [link](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/issues?scope=all&utf8=%E2%9C%93&state=all&assignee_username[]=jinyiju) here that shows the specific issues assigned to me.   
 
 
-### Reflection
+### REFLECTION
 
 I am so proud of me and other group members finished the usability test task so well, we got lots of pertinent advises from our participants. Those feedback is the reflection of our prototype. I really understood, the first significant thing of the user interface design which is that we need to know the needs of users. And I understood what does the user think by I was being a participant to test other groups prototype. I’m so lucky to work with everybody in this team, everyone has a strong sense of responsibility, we helped each other, solved difficulties and shared load. We all put on efforts for our project, especially I like we share ideas and then assigned tasks for everyone.
 
@@ -18,10 +18,15 @@ During this course, I learnt the importance of the visual effect and the functio
 In my group, everyone contributes to how well the group succeeds overall. We were having the right people in the correct roles. The success of our team is that we get input from everyone involved. Because we have certain people to lead our group, someone who manages the agenda, someone who facilitates the group meeting, someone develops ideas and someone checks for leaks, each one is a leader of the different part. It seems like it is a big team which has 6 people. In fact, everyone takes important role.
 
 
-## Marking rubric
+## MARKING RUBRIC
 
 - Design Review \[15\]
 - Testing \[25\]
 - Design Update \[25\]
 - Documentation & video \[15\]
 - Individual Reflections \[20\]
+
+
+## USER TESTING
+
+I was a tester for Team 1.
