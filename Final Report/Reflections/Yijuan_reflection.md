@@ -27,8 +27,8 @@ In my group, everyone contributes to how well the group succeeds overall. We wer
 - Design Review \[15\]
 - Testing \[25\]
 - Design Update \[25\]
-- Documentation & video \[15\]
-- Individual Reflections \[20\]
+- Documentation & video \[10\]
+- Individual Reflections \[25\]
 
 
 ## USER TESTING
