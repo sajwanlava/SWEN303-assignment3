@@ -589,7 +589,7 @@ Our final prototype does not take in any user inputs and this was something we c
 
 [**Lavanya Sajwan**](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Reflections/lavanya-reflection.md)
 
-[**Priyal Patel**] (https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Reflections/priyal-reflections.md)
+[**Priyal Patel**](https://gitlab.ecs.vuw.ac.nz/swen303-2019-p3/t8/final-project/blob/master/Final%20Report/Reflections/priyal-reflections.md)
 
 ## MARKING RUBRIC
 
