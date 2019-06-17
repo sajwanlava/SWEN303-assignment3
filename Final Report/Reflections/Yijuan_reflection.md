@@ -18,10 +18,10 @@ During this course, I learnt the importance of the visual effect and the functio
 In my group, everyone contributes to how well the group succeeds overall. We were having the right people in the correct roles. The success of our team is that we get input from everyone involved. Because we have certain people to lead our group, someone who manages the agenda, someone who facilitates the group meeting, someone develops ideas and someone checks for leaks, each one is a leader of the different part. It seems like it is a big team which has 6 people. In fact, everyone takes important role.
 
 
-## MARKING RUBRIC
+## Marking rubric
 
-- Design Review \[10\]
+- Design Review \[15\]
 - Testing \[25\]
-- Design Update \[10\]
-- Documentation & video \[25\]
-- Individual Reflections \[30\]
+- Design Update \[25\]
+- Documentation & video \[20\]
+- Individual Reflections \[15\]
