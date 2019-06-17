@@ -433,6 +433,8 @@ Previous designed prototypes at the bottom of the homepage in the [wiki](https:/
 **Callum's Assignment 2 Prototype**
 ![Callum's Assignment 2 Prototype](Final%20Report/Background/Callum.png)
 
+**Erin's Assignment 2 Prototype**
+![Erin's Assignment 2 Prototype](Final%20Report/Background/Yijuan_Jin.png)
 ## DESIGN REVIEW
 
 The following tables are our individual evaluations of each other's prototypes from Assignment 2 - the pros, cons, what we thought could have been improved, and features we definitely wanted in our group prototype. We used this method because it allowed us to get a well-rounded view of what each member thought a 'good' final prototype would include, and made it easy to work out which parts to cherry-pick from our Assignment 2 prototypes.
