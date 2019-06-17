@@ -10,6 +10,7 @@ I believe that my group members satisfied their roles and that they did very wel
 I think that the role system wasn't really effective, due to us fulfilling other member's role.
 
 The responsibilities I had as the processor is making sure that these tasks were being met and I don't believe that I fulfilled my role fully. During development of the prototype, I did quite a bit for chat and reporting users before the testing period, connecting them to where they need to be and fixing errors in terms of the feedback from testing. I was the note taker during the usability test, recording the user's comment and also the path they take when going through the task they needed to complete.
+
 [Issues assigned to me](ttps://gitlab.ecs.vuw.ac.nz/dashboard/issues?scope=all&utf8=%E2%9C%93&state=all&assignee_username=ongjaim)
 
 ## Reflection
