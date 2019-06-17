@@ -18,3 +18,11 @@ The contribution I'm proud of was being able to actively work on the prototype, 
 The key things I learnt about User Experience was how important user testing is. Without it, we wouldn't have found problems about our project even though we've gone through checking if everything works. It's great to get feedback from the user to improve our system and that would be essential for other projects in the future.
 
 I think the group functioned very well, helping other member's when their having trouble with a task or when they have to do other assignments/jobs. We communicated frequently to know what everyone is doing and to let other members know what their doing at the moment.
+
+## Marking rubric
+
+* Design Review [15]
+* Testing [35]
+* Design Update [15]
+* Documentation & video [10]
+* Individual Reflections [20]
