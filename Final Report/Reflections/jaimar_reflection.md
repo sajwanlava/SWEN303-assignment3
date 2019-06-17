@@ -27,3 +27,7 @@ I think the group functioned very well, helping other member's when their having
 * Design Update [15]
 * Documentation & video [10]
 * Individual Reflections [20]
+
+## User Testing
+
+I was a tester for T1
