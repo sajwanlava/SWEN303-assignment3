@@ -11,7 +11,7 @@ I think that the role system wasn't really effective, due to us fulfilling other
 
 The responsibilities I had as the processor is making sure that these tasks were being met and I don't believe that I fulfilled my role fully. During development of the prototype, I did quite a bit for chat and reporting users before the testing period, connecting them to where they need to be and fixing errors in terms of the feedback from testing. I was the note taker during the usability test, recording the user's comment and also the path they take when going through the task they needed to complete.
 
-[Issues assigned to me](ttps://gitlab.ecs.vuw.ac.nz/dashboard/issues?scope=all&utf8=%E2%9C%93&state=all&assignee_username=ongjaim)
+[Issues assigned to me](https://gitlab.ecs.vuw.ac.nz/dashboard/issues?scope=all&utf8=%E2%9C%93&state=all&assignee_username=ongjaim)
 
 ## Reflection
 The contribution I'm proud of was being able to actively work on the prototype, but mostly working on connections and errors needed to be fix for the chat and reporting. It took awhile to fix the errors/feedback from user testing, due to me using Adobe XD for the first time.
